@@ -1,0 +1,1745 @@
+﻿data_trimestre;trimestre;canal_acesso;tipo_transacao;detalhe_caixa_eletronico;qtd_transacoes;valor_transacoes
+2020-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);304011;0.00
+2020-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;7013807;0.00
+2020-03-31;1;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;44141850;52331068119.13
+2020-03-31;1;Agências;Saque;Não aplicável;60199848;309849870271.42
+2020-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);158796677;0.00
+2020-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;35842451;16376063491.33
+2020-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;349085687;178019110872.05
+2020-03-31;1;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;74612302;0.00
+2020-03-31;1;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;467304548;1371967652244.15
+2020-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);316839116;100901742525.55
+2020-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;1181625;4173469991.42
+2020-03-31;1;Correspondentes no País;Outras Financeiras;Não aplicável;642;1223468314.17
+2020-03-31;1;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;388534278;0.00
+2020-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);3802163;1608051064.08
+2020-03-31;1;Agências;Boletos e Convênios;Não aplicável;113544940;218603505675.00
+2020-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;300859262;0.00
+2020-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);3167461;3052604346.00
+2020-03-31;1;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;14435781;31793284161.56
+2020-03-31;1;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;24079977;71760129994.81
+2020-03-31;1;Centrais de Atendimento;Boletos e Convênios;Não aplicável;1145585;1461670867.51
+2020-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;144200034;0.00
+2020-03-31;1;Agências;Empréstimos e Financiamentos;Não aplicável;180679847;320725869795.28
+2020-03-31;1;Correspondentes no País;Outras não Financeiras;Não aplicável;2819205;0.00
+2020-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;106381952;49116218192.03
+2020-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;16230943;4090220179.89
+2020-03-31;1;Agências;Outras Financeiras;Não aplicável;128277203;2674708430604.83
+2020-03-31;1;Agências;Outras não Financeiras;Não aplicável;80404439;0.01
+2020-03-31;1;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;176361601;21505337470.53
+2020-03-31;1;Agências;Ordem de Transferência de Crédito;Não aplicável;70485850;2315209104551.63
+2020-03-31;1;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;48926801;39612565961.56
+2020-03-31;1;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;281669998;3851627075512.05
+2020-03-31;1;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;74686;1819472560.44
+2020-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;320883022;0.00
+2020-03-31;1;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;417164178;870508872700.45
+2020-03-31;1;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;6006094;46083522028.26
+2020-03-31;1;Centrais de Atendimento;Outras não Financeiras;Não aplicável;54757609;0.00
+2020-03-31;1;Centrais de Atendimento;Outras Financeiras;Não aplicável;804912;172571937227.62
+2020-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1848157;25508811105.40
+2020-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;143465207;125773909573.82
+2020-03-31;1;Correspondentes no País;Boletos e Convênios;Não aplicável;648439483;134302052049.55
+2020-03-31;1;Agências;Depósito;Não aplicável;122546245;2225653457260.65
+2020-03-31;1;Posto de Atendimento Cooperativo;Saque;Não aplicável;9707790;6621158216.87
+2020-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;777841;26185773558.79
+2020-03-31;1;Agências;Consulta Saldo/Extrato;Não aplicável;130629282;20.00
+2020-03-31;1;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;1291325;16790289545.74
+2020-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;139890675;60387951043.31
+2020-03-31;1;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1787190497;0.00
+2020-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);22687;20227972.43
+2020-03-31;1;Correspondentes no País;Depósito;Não aplicável;127951005;47957394282.26
+2020-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;7971370;8606256765.03
+2020-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);1260507;879202361.27
+2020-03-31;1;Posto de Atendimento Cooperativo;Depósito;Não aplicável;3846669;7477399826.44
+2020-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;48114079;52020179721.71
+2020-03-31;1;Correspondentes no País;Saque;Não aplicável;157684937;67975296324.26
+2020-03-31;1;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;988536;35826316848.32
+2020-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;30606149;37035223952.84
+2020-03-31;1;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;6544254898;0.00
+2020-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);506673;710633628.39
+2020-03-31;1;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;1662346972;0.00
+2020-03-31;1;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;444344;1810929081.83
+2020-03-31;1;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;293957351;529493061572.50
+2020-03-31;1;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1608923286;0.00
+2020-03-31;1;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;516144438;229253856862.92
+2020-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;87187706;40532616299.22
+2020-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);1235995;873162558.72
+2020-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;133402662;0.00
+2020-06-30;2;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;372394328;600822722662.93
+2020-06-30;2;Agências;Outras não Financeiras;Não aplicável;60546118;0.01
+2020-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);157865531;0.00
+2020-06-30;2;Agências;Saque;Não aplicável;33224648;211280433141.61
+2020-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;261866963;0.00
+2020-06-30;2;Centrais de Atendimento;Outras não Financeiras;Não aplicável;46360151;0.00
+2020-06-30;2;Posto de Atendimento Cooperativo;Saque;Não aplicável;9848971;7296382817.40
+2020-06-30;2;Correspondentes no País;Outras não Financeiras;Não aplicável;2057854;0.00
+2020-06-30;2;Correspondentes no País;Saque;Não aplicável;137674883;90569680763.60
+2020-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1583181;20483709164.98
+2020-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;48337211;56530039890.71
+2020-06-30;2;Agências;Consulta Saldo/Extrato;Não aplicável;98715348;0.00
+2020-06-30;2;Agências;Empréstimos e Financiamentos;Não aplicável;175593844;298372850502.51
+2020-06-30;2;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;1519528230;0.00
+2020-06-30;2;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1606953985;0.00
+2020-06-30;2;Agências;Depósito;Não aplicável;78323241;2107210583188.70
+2020-06-30;2;Centrais de Atendimento;Outras Financeiras;Não aplicável;521047;157983632562.09
+2020-06-30;2;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;426132681;1234413029966.95
+2020-06-30;2;Correspondentes no País;Boletos e Convênios;Não aplicável;556371538;119412495042.78
+2020-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);3101520;3106010682.00
+2020-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;11044818;3135006938.94
+2020-06-30;2;Correspondentes no País;Outras Financeiras;Não aplicável;919;905725145.34
+2020-06-30;2;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;40824229;45804710346.83
+2020-06-30;2;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;46683430;36866176034.91
+2020-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);528283;856561930.13
+2020-06-30;2;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;378815975;723450892938.77
+2020-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;28633726;12681085784.72
+2020-06-30;2;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;256871895;3450263979162.27
+2020-06-30;2;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;8494305713;0.00
+2020-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;6378809;0.00
+2020-06-30;2;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;806268;16764403189.51
+2020-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);19865;23719807.56
+2020-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);3669222;2988542502.56
+2020-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);330812404;104674911220.51
+2020-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);180050;0.00
+2020-06-30;2;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;7041265;56486912214.39
+2020-06-30;2;Agências;Outras Financeiras;Não aplicável;121493658;2823235365989.35
+2020-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;7073556;7931649813.99
+2020-06-30;2;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;176198394;0.00
+2020-06-30;2;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;607832974;239314739616.35
+2020-06-30;2;Correspondentes no País;Depósito;Não aplicável;108714854;49390630502.02
+2020-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;309673405;194040725061.93
+2020-06-30;2;Agências;Ordem de Transferência de Crédito;Não aplicável;76683663;2122498198643.67
+2020-06-30;2;Posto de Atendimento Cooperativo;Depósito;Não aplicável;4955787;9701614111.26
+2020-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;28681171;41284360586.58
+2020-06-30;2;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;195179915;27659216907.57
+2020-06-30;2;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1682864318;0.00
+2020-06-30;2;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;73280853;0.00
+2020-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;1329434;27190039085.95
+2020-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;111852061;56066712950.64
+2020-06-30;2;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;677466;16774661755.52
+2020-06-30;2;Centrais de Atendimento;Boletos e Convênios;Não aplicável;583671;541156477.70
+2020-06-30;2;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;30094485;93661385644.65
+2020-06-30;2;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;12359935;38943700267.42
+2020-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;793515;1310337861.55
+2020-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;291494210;0.00
+2020-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;154142896;154298904220.53
+2020-06-30;2;Agências;Boletos e Convênios;Não aplicável;61723005;128677381763.65
+2020-06-30;2;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;56000;1136142910.55
+2020-06-30;2;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;434069;973825283.71
+2020-09-30;3;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;415865918;902217806024.22
+2020-09-30;3;Correspondentes no País;Outras Financeiras;Não aplicável;574;355989633.98
+2020-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1596007;19738472254.15
+2020-09-30;3;Correspondentes no País;Boletos e Convênios;Não aplicável;573649252;129564978802.77
+2020-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);137933128;0.00
+2020-09-30;3;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;462752916;1363636651263.54
+2020-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);1104900;888112102.47
+2020-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);3351645;3505164624.00
+2020-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;173987505;179642650984.22
+2020-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;285285646;0.00
+2020-09-30;3;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;70246501;0.00
+2020-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;78903230;39261927622.06
+2020-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;129291625;0.00
+2020-09-30;3;Centrais de Atendimento;Boletos e Convênios;Não aplicável;458056;550108669.84
+2020-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);20449;24957383.14
+2020-09-30;3;Agências;Outras não Financeiras;Não aplicável;64588934;0.00
+2020-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;52101143;62740369886.67
+2020-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);276526;642241469.82
+2020-09-30;3;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;8737950;66419386850.92
+2020-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);364695;0.00
+2020-09-30;3;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;648671655;289462834912.55
+2020-09-30;3;Agências;Empréstimos e Financiamentos;Não aplicável;179699573;374040208193.62
+2020-09-30;3;Centrais de Atendimento;Outras Financeiras;Não aplicável;431569;115786495025.54
+2020-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;336568731;202252957857.30
+2020-09-30;3;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;444624;1483830053.84
+2020-09-30;3;Posto de Atendimento Cooperativo;Saque;Não aplicável;12288318;8828402057.50
+2020-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;6360623;0.00
+2020-09-30;3;Correspondentes no País;Saque;Não aplicável;155025187;94311034923.71
+2020-09-30;3;Agências;Boletos e Convênios;Não aplicável;84866389;163664321782.43
+2020-09-30;3;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;38148638;61376062352.43
+2020-09-30;3;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;87217;1485491295.70
+2020-09-30;3;Site do Banco (Internet Banking);Pix;Não aplicável;205169;736602838.36
+2020-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;6834340;8167542260.26
+2020-09-30;3;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;52332424;43843512394.65
+2020-09-30;3;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1821998542;0.00
+2020-09-30;3;Agências;Saque;Não aplicável;37233139;232711048658.25
+2020-09-30;3;Correspondentes no País;Depósito;Não aplicável;124137224;60026231674.16
+2020-09-30;3;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;85031697;0.00
+2020-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;119092269;57242488506.33
+2020-09-30;3;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;197262320;27810524946.31
+2020-09-30;3;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;415366751;782136298920.00
+2020-09-30;3;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;674610;6059598197.83
+2020-09-30;3;Agências;Ordem de Transferência de Crédito;Não aplicável;88556170;2525096831202.19
+2020-09-30;3;Centrais de Atendimento;Outras não Financeiras;Não aplicável;43734411;0.00
+2020-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);2675829;4325025369.66
+2020-09-30;3;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;35703917;119112577076.35
+2020-09-30;3;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;13115451;50640897350.85
+2020-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;737849;1404554304.20
+2020-09-30;3;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;1959408107;0.00
+2020-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);347565000;127750043277.97
+2020-09-30;3;Correspondentes no País;Outras não Financeiras;Não aplicável;2116564;0.00
+2020-09-30;3;Posto de Atendimento Cooperativo;Depósito;Não aplicável;5474638;10825139068.88
+2020-09-30;3;Agências;Consulta Saldo/Extrato;Não aplicável;133264867;50.00
+2020-09-30;3;Agências;Outras Financeiras;Não aplicável;140962381;2938092862972.66
+2020-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;1204876;28762445484.93
+2020-09-30;3;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;303142159;4027777158747.26
+2020-09-30;3;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;607218;17808935078.26
+2020-09-30;3;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;8641711134;0.00
+2020-09-30;3;Agências;Depósito;Não aplicável;61659416;2149310999589.84
+2020-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;29233497;46970771628.87
+2020-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;25304474;11674797215.49
+2020-09-30;3;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1863808148;0.00
+2020-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;10534985;3289896367.13
+2020-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;325905575;0.00
+2020-12-31;4;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;13203892;47859027916.57
+2020-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;135339535;0.00
+2020-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);140897251;0.00
+2020-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;131468880;65028029665.89
+2020-12-31;4;Agências;Outras não Financeiras;Não aplicável;65093637;0.00
+2020-12-31;4;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;2383039796;0.00
+2020-12-31;4;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;374336925;782195539085.41
+2020-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1516724;20294598143.72
+2020-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;1210218;30062004549.24
+2020-12-31;4;Centrais de Atendimento;Boletos e Convênios;Não aplicável;459773;621095954.26
+2020-12-31;4;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;407713741;1018357843041.32
+2020-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;10618143;3678819679.63
+2020-12-31;4;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;9931693;72933774315.52
+2020-12-31;4;Agências;Ordem de Transferência de Crédito;Não aplicável;92363506;2736546808893.17
+2020-12-31;4;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;36683104;64916056491.87
+2020-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;295372391;0.00
+2020-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;809004;1479040170.80
+2020-12-31;4;Correspondentes no País;Boletos e Convênios;Não aplicável;581266475;137800944401.17
+2020-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;73021193;38930469776.30
+2020-12-31;4;Agências;Depósito;Não aplicável;61119543;2517839187029.96
+2020-12-31;4;Centrais de Atendimento;Outras não Financeiras;Não aplicável;43082309;0.00
+2020-12-31;4;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;43035515;155520101720.65
+2020-12-31;4;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;672369531;311491500820.99
+2020-12-31;4;Agências;Empréstimos e Financiamentos;Não aplicável;184986667;389287391318.57
+2020-12-31;4;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;82000;1414335237.89
+2020-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);316331;0.00
+2020-12-31;4;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;647071;23552172540.48
+2020-12-31;4;Agências;Pix;Não aplicável;245;53593.27
+2020-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);295727;1013706177.89
+2020-12-31;4;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;9361556028;0.00
+2020-12-31;4;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1852044725;0.00
+2020-12-31;4;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;497179095;1417244344788.40
+2020-12-31;4;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1886408722;10.74
+2020-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;6556543;0.00
+2020-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;50846445;62702057076.31
+2020-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;355156647;209175460148.02
+2020-12-31;4;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;84685365;0.00
+2020-12-31;4;Posto de Atendimento Cooperativo;Depósito;Não aplicável;5852053;11285049224.00
+2020-12-31;4;Agências;Consulta Saldo/Extrato;Não aplicável;129468600;0.00
+2020-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;28752397;46260718693.71
+2020-12-31;4;Correspondentes no País;Depósito;Não aplicável;127944077;61287211376.69
+2020-12-31;4;Centrais de Atendimento;Outras Financeiras;Não aplicável;475509;119547727962.47
+2020-12-31;4;Agências;Outras Financeiras;Não aplicável;149631644;3348089641719.33
+2020-12-31;4;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;246893767;4472362774367.51
+2020-12-31;4;Correspondentes no País;Saque;Não aplicável;159272501;87197899866.05
+2020-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;182303931;184004991504.11
+2020-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);381524837;139603423093.18
+2020-12-31;4;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;56243529;50736969391.89
+2020-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);1043011;822714666.70
+2020-12-31;4;Correspondentes no País;Outras não Financeiras;Não aplicável;2321109;0.00
+2020-12-31;4;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;627334;6796549948.64
+2020-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);2491277;26896250165.91
+2020-12-31;4;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;198545406;25801525263.62
+2020-12-31;4;Agências;Boletos e Convênios;Não aplicável;85152149;162069373732.71
+2020-12-31;4;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;531351;2018626139.83
+2020-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);22882;25876834.36
+2020-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;293914174;0.00
+2020-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;23857067;11755846651.51
+2020-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);3564553;3807292085.00
+2020-12-31;4;Posto de Atendimento Cooperativo;Saque;Não aplicável;14243665;9961679450.27
+2020-12-31;4;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;112945275;74954291969.79
+2020-12-31;4;Correspondentes no País;Outras Financeiras;Não aplicável;497;962367389.62
+2020-12-31;4;Site do Banco (Internet Banking);Pix;Não aplicável;7105856;43095271496.31
+2020-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;6752994;8273475772.90
+2020-12-31;4;Agências;Saque;Não aplicável;40904599;254854670111.80
+2020-12-31;4;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;71611598;0.00
+2021-03-31;1;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;292213427;635515584816.03
+2021-03-31;1;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;88384;1495878359.52
+2021-03-31;1;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;9730960082;0.00
+2021-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;1134656;27853587423.54
+2021-03-31;1;Site do Banco (Internet Banking);Pix;Não aplicável;23854651;142205890311.01
+2021-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;300017154;192041073949.88
+2021-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;24097421;41679235242.53
+2021-03-31;1;Agências;Depósito;Não aplicável;62409965;2534694707402.23
+2021-03-31;1;Agências;Boletos e Convênios;Não aplicável;64854410;141267821936.31
+2021-03-31;1;Posto de Atendimento Cooperativo;Depósito;Não aplicável;6037306;11246718286.84
+2021-03-31;1;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;7567161;71385236349.59
+2021-03-31;1;Agências;Outras não Financeiras;Não aplicável;58961017;0.00
+2021-03-31;1;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;747636508;399144869701.49
+2021-03-31;1;Correspondentes no País;Outras não Financeiras;Não aplicável;2197730;0.00
+2021-03-31;1;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1365866888;0.00
+2021-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;23049904;11601340189.89
+2021-03-31;1;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;347475;21696154584.34
+2021-03-31;1;Correspondentes no País;Depósito;Não aplicável;113846969;52731574031.25
+2021-03-31;1;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;138679558;0.00
+2021-03-31;1;Agências;Ordem de Transferência de Crédito;Não aplicável;69286892;2822537086769.57
+2021-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);190248;255400787.82
+2021-03-31;1;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;2818039580;0.00
+2021-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);829999;626585592.05
+2021-03-31;1;Centrais de Atendimento;Outras Financeiras;Não aplicável;395040;111242015317.59
+2021-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);2974;7461.00
+2021-03-31;1;Agências;Empréstimos e Financiamentos;Não aplicável;133678573;250582007752.77
+2021-03-31;1;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;228602017;5188996288187.91
+2021-03-31;1;Agências;Pix;Não aplicável;2216;6916862.84
+2021-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;6230512;0.00
+2021-03-31;1;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;483291058;1321989720861.80
+2021-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;262085411;0.00
+2021-03-31;1;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;36810666;59170190177.06
+2021-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;12125401;4929416286.61
+2021-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);2055933;11082633975.18
+2021-03-31;1;Agências;Consulta Saldo/Extrato;Não aplicável;120468847;40.00
+2021-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);124277943;0.00
+2021-03-31;1;Posto de Atendimento Cooperativo;Saque;Não aplicável;16771433;10678445557.82
+2021-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;5564126;6934889816.75
+2021-03-31;1;Centrais de Atendimento;Boletos e Convênios;Não aplicável;274646;282352191.30
+2021-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);318850168;111649119791.27
+2021-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;163499899;164092048613.95
+2021-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);3232484;3461369558.00
+2021-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);132597;0.00
+2021-03-31;1;Correspondentes no País;Outras Financeiras;Não aplicável;487;409591367.48
+2021-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;70200695;39707132004.25
+2021-03-31;1;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;456111225;280532096059.74
+2021-03-31;1;Centrais de Atendimento;Outras não Financeiras;Não aplicável;32064707;0.00
+2021-03-31;1;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;41294813;116733480208.98
+2021-03-31;1;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;232020015;29103449168.55
+2021-03-31;1;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;10555378;34458437111.79
+2021-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;112252738;55444476803.56
+2021-03-31;1;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1978485458;20.76
+2021-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;124327291;0.00
+2021-03-31;1;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;440527219;1155498870220.88
+2021-03-31;1;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;650079;12260573840.33
+2021-03-31;1;Agências;Outras Financeiras;Não aplicável;143319320;3275672146171.24
+2021-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;243869648;0.00
+2021-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;716742;1038985715.63
+2021-03-31;1;Correspondentes no País;Boletos e Convênios;Não aplicável;570956563;137456138442.75
+2021-03-31;1;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;65198993;0.00
+2021-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1325660;4671451560.23
+2021-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;45300420;55725962701.45
+2021-03-31;1;Correspondentes no País;Saque;Não aplicável;143863989;72604282060.38
+2021-03-31;1;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;57093129;50388352089.79
+2021-03-31;1;Agências;Saque;Não aplicável;36013592;231307454806.41
+2021-03-31;1;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;324401;1729806908.73
+2021-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);318484257;112831841545.77
+2021-06-30;2;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;137080612;0.00
+2021-06-30;2;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1352278665;0.00
+2021-06-30;2;Centrais de Atendimento;Outras Financeiras;Não aplicável;401770;137176264690.66
+2021-06-30;2;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;1033273460;528226042634.45
+2021-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;1085339;29011786766.64
+2021-06-30;2;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;426551613;1172013010916.26
+2021-06-30;2;Agências;Boletos e Convênios;Não aplicável;62417288;153609644023.90
+2021-06-30;2;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;64673113;0.00
+2021-06-30;2;Centrais de Atendimento;Boletos e Convênios;Não aplicável;303906;585831765.70
+2021-06-30;2;Site do Banco (Internet Banking);Pix;Não aplicável;47343314;213550834652.24
+2021-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);113912077;0.00
+2021-06-30;2;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;335074;18311248351.95
+2021-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);173730;214208404.85
+2021-06-30;2;Centrais de Atendimento;Outras não Financeiras;Não aplicável;41376415;0.00
+2021-06-30;2;Posto de Atendimento Cooperativo;Saque;Não aplicável;19847792;13029753374.92
+2021-06-30;2;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;12707658;45368279059.97
+2021-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;251697295;0.00
+2021-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);2633;59896.00
+2021-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);3329025;3554925614.00
+2021-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;6397226;0.00
+2021-06-30;2;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;808331;15165178252.27
+2021-06-30;2;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;749588204;420670875895.95
+2021-06-30;2;Correspondentes no País;Boletos e Convênios;Não aplicável;545505596;130981794028.64
+2021-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;824298;1266383863.49
+2021-06-30;2;Correspondentes no País;Outras Financeiras;Não aplicável;583;236432536.69
+2021-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;57038423;33474205564.13
+2021-06-30;2;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);2131;218260.00
+2021-06-30;2;Agências;Depósito;Não aplicável;57767879;2578552554082.38
+2021-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;19595308;9902838390.81
+2021-06-30;2;Correspondentes no País;Saque;Não aplicável;143839572;74673335931.03
+2021-06-30;2;Caixa Eletrônico;Pix;Caixa Eletrônico / Acesso Restrito;4;410.00
+2021-06-30;2;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;444319;1947462031.93
+2021-06-30;2;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;235693662;5463060433430.79
+2021-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;111997353;56611316248.49
+2021-06-30;2;Agências;Ordem de Transferência de Crédito;Não aplicável;68703167;3139898200936.32
+2021-06-30;2;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;59607804;57346601039.83
+2021-06-30;2;Agências;Pix;Não aplicável;473207;446370819.72
+2021-06-30;2;Agências;Outras Financeiras;Não aplicável;156114762;3452607870845.45
+2021-06-30;2;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;107817;1853780279.92
+2021-06-30;2;Correspondentes no País;Depósito;Não aplicável;111577166;52334678219.49
+2021-06-30;2;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;235358628;33264521222.09
+2021-06-30;2;Correspondentes no País;Outras não Financeiras;Não aplicável;2503189;0.00
+2021-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1188246;5673907402.45
+2021-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);1909269;5869179775.78
+2021-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);757249;599840091.93
+2021-06-30;2;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;468341511;1412111483723.40
+2021-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;11461828;6019685474.18
+2021-06-30;2;Posto de Atendimento Cooperativo;Depósito;Não aplicável;7844688;14920834093.27
+2021-06-30;2;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;48383524;301798312126.12
+2021-06-30;2;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;2075818291;19.17
+2021-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;157775281;159763208450.45
+2021-06-30;2;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;280170135;632913710299.39
+2021-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;21799328;43017801853.82
+2021-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;298409435;191204547780.53
+2021-06-30;2;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;3398981299;0.00
+2021-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);86002;0.00
+2021-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;42200742;53290596095.33
+2021-06-30;2;Agências;Outras não Financeiras;Não aplicável;61681409;0.00
+2021-06-30;2;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;6786920;90042000770.83
+2021-06-30;2;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;44310372;98265093429.92
+2021-06-30;2;Agências;Empréstimos e Financiamentos;Não aplicável;137727168;304934201745.82
+2021-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;5188043;7048879918.00
+2021-06-30;2;Agências;Consulta Saldo/Extrato;Não aplicável;134528177;72.00
+2021-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;227932660;0.00
+2021-06-30;2;Agências;Saque;Não aplicável;35408822;238125231552.45
+2021-06-30;2;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;10730699133;0.00
+2021-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;122146378;0.00
+2021-09-30;3;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;1569588291;749417256890.16
+2021-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);35723;0.00
+2021-09-30;3;Agências;Empréstimos e Financiamentos;Não aplicável;135400689;317791902195.32
+2021-09-30;3;Centrais de Atendimento;Outras não Financeiras;Não aplicável;43134402;0.00
+2021-09-30;3;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1361813739;0.00
+2021-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);157311;187810288.62
+2021-09-30;3;Agências;Outras não Financeiras;Não aplicável;64153905;0.00
+2021-09-30;3;Agências;Depósito;Não aplicável;58468429;2933265471172.48
+2021-09-30;3;Site do Banco (Internet Banking);Pix;Não aplicável;60144401;267641319884.55
+2021-09-30;3;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;242797871;36451754511.65
+2021-09-30;3;Posto de Atendimento Cooperativo;Saque;Não aplicável;24457821;14016158908.49
+2021-09-30;3;Agências;Saque;Não aplicável;38142201;241084797622.24
+2021-09-30;3;Agências;Pix;Não aplicável;811104;318742956.84
+2021-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;110182135;55230059926.00
+2021-09-30;3;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;123850;2138925358.89
+2021-09-30;3;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;438596056;1262982227073.34
+2021-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;8506983;0.00
+2021-09-30;3;Agências;Ordem de Transferência de Crédito;Não aplicável;55514437;3266614668717.77
+2021-09-30;3;Centrais de Atendimento;Outras Financeiras;Não aplicável;424192;115194918441.84
+2021-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;118275075;0.00
+2021-09-30;3;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;41119908;111448529010.21
+2021-09-30;3;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;12220732;47369697504.09
+2021-09-30;3;Agências;Consulta Saldo/Extrato;Não aplicável;141730816;0.00
+2021-09-30;3;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;61669189;0.00
+2021-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);323896104;112437559410.95
+2021-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);1645907;6891343427.12
+2021-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);3670310;3790639759.00
+2021-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;5284365;7670723600.73
+2021-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;41065355;52287581282.33
+2021-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;738542;1276548755.99
+2021-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;1053552;30468683504.40
+2021-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;297540511;183043195018.13
+2021-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;49469078;30648709904.40
+2021-09-30;3;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;494710854;1508506888035.17
+2021-09-30;3;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;3152047875;0.00
+2021-09-30;3;Posto de Atendimento Cooperativo;Depósito;Não aplicável;9071371;14625687218.63
+2021-09-30;3;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;6136109;85603560384.34
+2021-09-30;3;Correspondentes no País;Outras Financeiras;Não aplicável;240556;298262648.90
+2021-09-30;3;Agências;Outras Financeiras;Não aplicável;174017189;3892904867680.40
+2021-09-30;3;Centrais de Atendimento;Boletos e Convênios;Não aplicável;297078;411475034.18
+2021-09-30;3;Agências;Boletos e Convênios;Não aplicável;68475509;149125500563.54
+2021-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;242827412;0.00
+2021-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);3741;20482.00
+2021-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1253221;12256994215.93
+2021-09-30;3;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;52782110;196427021773.61
+2021-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;18088024;9424194965.43
+2021-09-30;3;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;668195;21185531607.62
+2021-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;19257662;42446450605.12
+2021-09-30;3;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;285755449;689144619608.03
+2021-09-30;3;Caixa Eletrônico;Pix;Caixa Eletrônico / Acesso Restrito;43;10760.00
+2021-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);670333;548342744.52
+2021-09-30;3;Correspondentes no País;Outras não Financeiras;Não aplicável;2858543;0.00
+2021-09-30;3;Correspondentes no País;Saque;Não aplicável;129970842;69577779755.97
+2021-09-30;3;Correspondentes no País;Depósito;Não aplicável;111098785;53810344392.73
+2021-09-30;3;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;62883786;62557261418.06
+2021-09-30;3;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;2130933244;13.50
+2021-09-30;3;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;822948;12060603756.56
+2021-09-30;3;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;278282;21477022779.98
+2021-09-30;3;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);40363;6886500.00
+2021-09-30;3;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;132176619;0.00
+2021-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);104923363;0.00
+2021-09-30;3;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;770969722;463963526966.58
+2021-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;162665854;163249982655.02
+2021-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;12566654;6415445097.21
+2021-09-30;3;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;210912992;5671353567503.88
+2021-09-30;3;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;11909800460;0.00
+2021-09-30;3;Correspondentes no País;Boletos e Convênios;Não aplicável;535301774;131178696047.95
+2021-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;212141559;0.00
+2021-12-31;4;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;64424701;67259793079.91
+2021-12-31;4;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;538437519;1576335452807.86
+2021-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);328732227;115577085822.45
+2021-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;4880836;7076564230.98
+2021-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);3916546;4035047595.96
+2021-12-31;4;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;12142556;43779218689.74
+2021-12-31;4;Centrais de Atendimento;Outras não Financeiras;Não aplicável;46852332;0.00
+2021-12-31;4;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1364469250;0.00
+2021-12-31;4;Agências;Depósito;Não aplicável;55997983;2777575244286.65
+2021-12-31;4;Correspondentes no País;Boletos e Convênios;Não aplicável;524555014;136370826765.79
+2021-12-31;4;Centrais de Atendimento;Outras Financeiras;Não aplicável;441847;125693616799.77
+2021-12-31;4;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;397906446;1324109374254.00
+2021-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;195326972;0.00
+2021-12-31;4;Posto de Atendimento Cooperativo;Depósito;Não aplicável;10781662;14616253031.56
+2021-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);648309;555408003.10
+2021-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1251994;31531347622.78
+2021-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;15833252;36181139629.63
+2021-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;43776220;28634614017.93
+2021-12-31;4;Correspondentes no País;Outras Financeiras;Não aplicável;272;70639560.34
+2021-12-31;4;Agências;Empréstimos e Financiamentos;Não aplicável;146909691;355100225493.86
+2021-12-31;4;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;14125618365;0.00
+2021-12-31;4;Agências;Outras não Financeiras;Não aplicável;61015945;0.00
+2021-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;982983;31727784268.45
+2021-12-31;4;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;69316427;177463540425.25
+2021-12-31;4;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;85647;1484886076.93
+2021-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;291663886;176382008135.42
+2021-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;239899830;0.00
+2021-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;613484;1126709893.66
+2021-12-31;4;Agências;Consulta Saldo/Extrato;Não aplicável;131007160;0.00
+2021-12-31;4;Correspondentes no País;Saque;Não aplicável;134975769;73592399480.49
+2021-12-31;4;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;4064263;55430600163.08
+2021-12-31;4;Correspondentes no País;Depósito;Não aplicável;105530855;56292260085.62
+2021-12-31;4;Centrais de Atendimento;Boletos e Convênios;Não aplicável;334770;589425856.36
+2021-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);104719155;0.00
+2021-12-31;4;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;227108209;5982184135801.42
+2021-12-31;4;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;3055685447;0.00
+2021-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;38582125;50064289996.21
+2021-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;16371495;8774912157.96
+2021-12-31;4;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;2162435286;13.41
+2021-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;112422377;57203123563.20
+2021-12-31;4;Agências;Saque;Não aplicável;38854364;274318653631.96
+2021-12-31;4;Posto de Atendimento Cooperativo;Saque;Não aplicável;29487213;14828696283.92
+2021-12-31;4;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;1995321516;822595632938.79
+2021-12-31;4;Agências;Pix;Não aplicável;977406;605211630.06
+2021-12-31;4;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;384217903;870940431752.63
+2021-12-31;4;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;40504344;116147981945.92
+2021-12-31;4;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);156442;31211574.00
+2021-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;8440047;0.00
+2021-12-31;4;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;136776767;0.00
+2021-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);39647;0.00
+2021-12-31;4;Agências;Outras Financeiras;Não aplicável;183586416;3809602335551.15
+2021-12-31;4;Correspondentes no País;Outras não Financeiras;Não aplicável;2516228;0.00
+2021-12-31;4;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;344480;1515359417.67
+2021-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;131684223;134368250635.07
+2021-12-31;4;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;266765;19694962383.37
+2021-12-31;4;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;238819963;36414646922.41
+2021-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);162366;212138830.54
+2021-12-31;4;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;716067;11087984851.71
+2021-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);1512103;13913596701.50
+2021-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;123632405;0.00
+2021-12-31;4;Site do Banco (Internet Banking);Pix;Não aplicável;77368173;375081724972.55
+2021-12-31;4;Agências;Ordem de Transferência de Crédito;Não aplicável;59881334;3370360533023.14
+2021-12-31;4;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;872819630;553366081629.78
+2021-12-31;4;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;61595498;0.00
+2021-12-31;4;Agências;Boletos e Convênios;Não aplicável;60559044;143770388573.47
+2021-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;11622967;6286643209.07
+2021-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);17334;43700.00
+2022-03-31;1;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;3328077045;0.00
+2022-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);3840224;3871355973.00
+2022-03-31;1;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);179919;32840389.00
+2022-03-31;1;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;1120976;17315682600.19
+2022-03-31;1;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;137038;2126622784.99
+2022-03-31;1;Agências;Ordem de Transferência de Crédito;Não aplicável;56786575;3293316303599.37
+2022-03-31;1;Agências;Saque;Não aplicável;41893213;247756118199.39
+2022-03-31;1;Posto de Atendimento Cooperativo;Saque;Não aplicável;30541710;14561818497.78
+2022-03-31;1;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;91240309;0.00
+2022-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);296359078;103568746178.42
+2022-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);141871;184836485.72
+2022-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);2852;18126.00
+2022-03-31;1;Site do Banco (Internet Banking);Pix;Não aplicável;103058682;594942633263.88
+2022-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;16437008;9017557506.12
+2022-03-31;1;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;246730600;53562877568.64
+2022-03-31;1;Agências;Empréstimos e Financiamentos;Não aplicável;169267484;423032155652.75
+2022-03-31;1;Agências;Depósito;Não aplicável;47348236;2820330758484.24
+2022-03-31;1;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;14887341444;0.00
+2022-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;10663491;4682535379.71
+2022-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;4367629;6458726174.10
+2022-03-31;1;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;128878;18596643.67
+2022-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;44309907;30040681357.71
+2022-03-31;1;Correspondentes no País;Outras não Financeiras;Não aplicável;2170699;0.00
+2022-03-31;1;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;249389;36702245230.70
+2022-03-31;1;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;338829;1167054002.80
+2022-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);561769;479235755.61
+2022-03-31;1;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;5356521;82888299955.99
+2022-03-31;1;Correspondentes no País;Pix;Não aplicável;8847;4544260.65
+2022-03-31;1;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;487486494;899977398270.13
+2022-03-31;1;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;206792863;6029399509739.05
+2022-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;35848678;46685487708.05
+2022-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);1334582;8223453255.42
+2022-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1176919;5209283934.84
+2022-03-31;1;Agências;Outras Financeiras;Não aplicável;182193246;4047581967180.78
+2022-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;95501396;50007345484.39
+2022-03-31;1;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;2003369674;0.00
+2022-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);42162;0.00
+2022-03-31;1;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;6;25.00
+2022-03-31;1;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1342304052;0.00
+2022-03-31;1;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;1080808092;616575472513.05
+2022-03-31;1;Correspondentes no País;Outras Financeiras;Não aplicável;81842;297505099.95
+2022-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;562205;979555705.93
+2022-03-31;1;Posto de Atendimento Cooperativo;Depósito;Não aplicável;11176308;13808960260.25
+2022-03-31;1;Correspondentes no País;Saque;Não aplicável;129271042;75421431189.95
+2022-03-31;1;Agências;Consulta Saldo/Extrato;Não aplicável;132213167;82.00
+2022-03-31;1;Agências;Outras não Financeiras;Não aplicável;58728551;0.00
+2022-03-31;1;Agências;Boletos e Convênios;Não aplicável;48773789;125963499890.27
+2022-03-31;1;Centrais de Atendimento;Outras Financeiras;Não aplicável;545392;144813690559.79
+2022-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;931531;29460547495.36
+2022-03-31;1;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;12316265;49881480285.89
+2022-03-31;1;Correspondentes no País;Boletos e Convênios;Não aplicável;513227496;139666144341.07
+2022-03-31;1;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;63864038;65185967078.80
+2022-03-31;1;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;3469173257;1122273127058.02
+2022-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);101069065;0.00
+2022-03-31;1;Agências;Pix;Não aplicável;2238396;2779343574.65
+2022-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;193109491;0.00
+2022-03-31;1;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;60874421;0.00
+2022-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;115617263;0.00
+2022-03-31;1;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;53910490;134524026771.13
+2022-03-31;1;Correspondentes no País;Depósito;Não aplicável;99734695;57012012024.31
+2022-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;14243182;33966789512.65
+2022-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;147713487;148074864638.50
+2022-03-31;1;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;374781882;1302704164173.23
+2022-03-31;1;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;535822204;1678817254867.14
+2022-03-31;1;Centrais de Atendimento;Outras não Financeiras;Não aplicável;42422412;0.00
+2022-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;259172261;156169785927.07
+2022-03-31;1;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;429764991;223667950090.68
+2022-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;228273692;0.00
+2022-03-31;1;Centrais de Atendimento;Boletos e Convênios;Não aplicável;311631;669755191.43
+2022-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;7856097;0.00
+2022-06-30;2;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;16892286337;0.00
+2022-06-30;2;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;518001914;948393726814.41
+2022-06-30;2;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;535843161;1748893643658.67
+2022-06-30;2;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;268642;38383827.49
+2022-06-30;2;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;505086035;239046433353.02
+2022-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;14832876;8128571563.60
+2022-06-30;2;Agências;Boletos e Convênios;Não aplicável;48278130;121434954309.18
+2022-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;35500368;45681668501.49
+2022-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;7916276;0.00
+2022-06-30;2;Agências;Pix;Não aplicável;10490417;8693679868.45
+2022-06-30;2;Agências;Saque;Não aplicável;44340225;271799806797.08
+2022-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;4264941;6514396624.36
+2022-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;183987770;0.00
+2022-06-30;2;Correspondentes no País;Outras Financeiras;Não aplicável;79724;286875399.36
+2022-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);303608865;108683694098.95
+2022-06-30;2;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;961150;13851938258.84
+2022-06-30;2;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1900454269;0.00
+2022-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;152594677;150105511299.26
+2022-06-30;2;Correspondentes no País;Depósito;Não aplicável;103744204;63227207415.31
+2022-06-30;2;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;52174480;142286701632.25
+2022-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);3986140;3958905478.00
+2022-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;269416704;170035434965.43
+2022-06-30;2;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;253803563;61588354600.64
+2022-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;119782551;0.00
+2022-06-30;2;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;1135745436;692981871326.22
+2022-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;40569671;26980061969.67
+2022-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);170626;215363397.37
+2022-06-30;2;Agências;Empréstimos e Financiamentos;Não aplicável;171079882;514578851187.22
+2022-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;99171175;54439606210.87
+2022-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;669773;1556776056.88
+2022-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);2517;42569.00
+2022-06-30;2;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;3;18.00
+2022-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);1165171;10839006325.28
+2022-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;10908824;5223485132.39
+2022-06-30;2;Centrais de Atendimento;Boletos e Convênios;Não aplicável;373053;826649701.84
+2022-06-30;2;Agências;Depósito;Não aplicável;40874618;2771732713944.22
+2022-06-30;2;Agências;Outras não Financeiras;Não aplicável;61423157;0.00
+2022-06-30;2;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;345748;1260544846.63
+2022-06-30;2;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);308399;64440297.00
+2022-06-30;2;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;129358;2090930578.36
+2022-06-30;2;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;5277301;97595443892.66
+2022-06-30;2;Centrais de Atendimento;Outras Financeiras;Não aplicável;407991;126458144618.02
+2022-06-30;2;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;217319756;6649885113526.19
+2022-06-30;2;Centrais de Atendimento;Outras não Financeiras;Não aplicável;44267049;0.00
+2022-06-30;2;Site do Banco (Internet Banking);Pix;Não aplicável;125676270;764967177981.57
+2022-06-30;2;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;374815883;1377146549344.54
+2022-06-30;2;Agências;Consulta Saldo/Extrato;Não aplicável;117465114;66.00
+2022-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);552905;505281887.98
+2022-06-30;2;Agências;Outras Financeiras;Não aplicável;193343929;4102196824638.25
+2022-06-30;2;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;13509780;64923672223.17
+2022-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1345231;11967478856.40
+2022-06-30;2;Correspondentes no País;Saque;Não aplicável;132797647;81745829011.84
+2022-06-30;2;Correspondentes no País;Pix;Não aplicável;16634;5705744.18
+2022-06-30;2;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;47366796;0.00
+2022-06-30;2;Correspondentes no País;Boletos e Convênios;Não aplicável;507449499;140301006740.20
+2022-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;922202;28888311958.26
+2022-06-30;2;Posto de Atendimento Cooperativo;Saque;Não aplicável;35378440;16439141356.54
+2022-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;244971748;0.00
+2022-06-30;2;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;3560452852;0.00
+2022-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);42160;0.00
+2022-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);103516371;0.00
+2022-06-30;2;Agências;Ordem de Transferência de Crédito;Não aplicável;54720258;3646491786451.30
+2022-06-30;2;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;62562544;0.00
+2022-06-30;2;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;246703;33267227608.12
+2022-06-30;2;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1337566893;0.00
+2022-06-30;2;Posto de Atendimento Cooperativo;Depósito;Não aplicável;14223521;16360642478.41
+2022-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;14887272;34314302879.27
+2022-06-30;2;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;67009874;75197724329.54
+2022-06-30;2;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;4641583525;1458612519325.45
+2022-06-30;2;Correspondentes no País;Outras não Financeiras;Não aplicável;2056953;0.00
+2022-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;1065718;1280069582.15
+2022-09-30;3;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;5151259;96083318469.71
+2022-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;182397602;0.00
+2022-09-30;3;Agências;Outras não Financeiras;Não aplicável;61264923;0.00
+2022-09-30;3;Centrais de Atendimento;Pix;Não aplicável;30;2154723.58
+2022-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);291513415;100985601587.56
+2022-09-30;3;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;396506;1390795898.81
+2022-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;247697668;152073423368.54
+2022-09-30;3;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);491490;105453207.00
+2022-09-30;3;Correspondentes no País;Outras Financeiras;Não aplicável;98694;409378179.34
+2022-09-30;3;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;41455749;0.00
+2022-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;105018288;0.00
+2022-09-30;3;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;11;1555.00
+2022-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);500857;459700084.55
+2022-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;960463;30192054696.92
+2022-09-30;3;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;568674250;257703775406.29
+2022-09-30;3;Posto de Atendimento Cooperativo;Depósito;Não aplicável;15499538;17268855791.80
+2022-09-30;3;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;366396263;938990860139.37
+2022-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;35420222;23281972833.66
+2022-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;10192934;0.00
+2022-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;4203579;6971265931.87
+2022-09-30;3;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;243933525;66341289778.93
+2022-09-30;3;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;15219157;69116650588.16
+2022-09-30;3;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;44912098;47102530141.72
+2022-09-30;3;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;119060;2014033199.52
+2022-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1329630;22351380459.69
+2022-09-30;3;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;618271;88608802.24
+2022-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;38822571;47414107552.30
+2022-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);138876;205034750.86
+2022-09-30;3;Correspondentes no País;Boletos e Convênios;Não aplicável;296500764;108924423433.53
+2022-09-30;3;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1373495734;0.00
+2022-09-30;3;Agências;Consulta Saldo/Extrato;Não aplicável;119832867;0.00
+2022-09-30;3;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;5740028925;1799864625779.66
+2022-09-30;3;Centrais de Atendimento;Outras Financeiras;Não aplicável;390810;141617643718.60
+2022-09-30;3;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;47414934;137601154081.88
+2022-09-30;3;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;1084378609;662118394087.18
+2022-09-30;3;Agências;Saque;Não aplicável;44413557;272393541072.20
+2022-09-30;3;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;377473616;1366811689793.27
+2022-09-30;3;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;3469610047;0.00
+2022-09-30;3;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1876462011;0.00
+2022-09-30;3;Agências;Depósito;Não aplicável;39472481;2788672161191.49
+2022-09-30;3;Agências;Pix;Não aplicável;8203636;12100883814.52
+2022-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);40126;0.00
+2022-09-30;3;Correspondentes no País;Saque;Não aplicável;128583239;78337247120.61
+2022-09-30;3;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;220434795;7030102551776.13
+2022-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;234502055;0.00
+2022-09-30;3;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;931113;9888350688.77
+2022-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);98532926;0.00
+2022-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);2402;10457.00
+2022-09-30;3;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;171843;16055001585.69
+2022-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;97349122;52887213567.76
+2022-09-30;3;Agências;Ordem de Transferência de Crédito;Não aplicável;57897862;3527453341520.32
+2022-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;10234070;4270459765.44
+2022-09-30;3;Centrais de Atendimento;Outras não Financeiras;Não aplicável;34583854;0.00
+2022-09-30;3;Centrais de Atendimento;Boletos e Convênios;Não aplicável;188899;395547213.00
+2022-09-30;3;Agências;Outras Financeiras;Não aplicável;202469864;4234796719388.98
+2022-09-30;3;Agências;Boletos e Convênios;Não aplicável;53530847;120429968723.28
+2022-09-30;3;Agências;Empréstimos e Financiamentos;Não aplicável;178462407;585363942065.18
+2022-09-30;3;Correspondentes no País;Depósito;Não aplicável;104484757;62665805844.55
+2022-09-30;3;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;16879319946;0.00
+2022-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);1021277;40768820544.14
+2022-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;13011242;29996176220.99
+2022-09-30;3;Correspondentes no País;Pix;Não aplicável;23878;7898723.55
+2022-09-30;3;Correspondentes no País;Outras não Financeiras;Não aplicável;1891042;0.00
+2022-09-30;3;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;16292876;0.00
+2022-09-30;3;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;523938160;1963072515206.20
+2022-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);3975281;3813694667.00
+2022-09-30;3;Site do Banco (Internet Banking);Pix;Não aplicável;156965508;901428255892.04
+2022-09-30;3;Posto de Atendimento Cooperativo;Saque;Não aplicável;39650236;17526651256.84
+2022-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;14517494;8164188392.55
+2022-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;144305697;145500379537.47
+2022-12-31;4;Correspondentes no País;Outras não Financeiras;Não aplicável;1855395;0.00
+2022-12-31;4;Agências;Outras Financeiras;Não aplicável;204166703;4089830121265.18
+2022-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;226174114;0.00
+2022-12-31;4;Agências;Saques via Pix;Não aplicável;67;799.94
+2022-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);294036429;104052695493.07
+2022-12-31;4;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;927505;153370537.92
+2022-12-31;4;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;232626991;7137135129413.90
+2022-12-31;4;Agências;Pix;Não aplicável;12182534;13362654167.17
+2022-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;999364;1186613652.14
+2022-12-31;4;Agências;Consulta Saldo/Extrato;Não aplicável;118021943;0.00
+2022-12-31;4;Agências;Outras não Financeiras;Não aplicável;55300625;0.00
+2022-12-31;4;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;19739648563;0.00
+2022-12-31;4;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;45419443;47979600301.07
+2022-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);121265;233675257.52
+2022-12-31;4;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;155021;17107261621.58
+2022-12-31;4;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;43970806;132927727490.29
+2022-12-31;4;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;16418436;0.00
+2022-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;139464440;139504681098.45
+2022-12-31;4;Agências;Depósito;Não aplicável;36403052;2642295720644.80
+2022-12-31;4;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;616107117;233270059033.94
+2022-12-31;4;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;3395876;56642785877.09
+2022-12-31;4;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;378583;1365792723.75
+2022-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);36341;0.00
+2022-12-31;4;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;1083545184;695964846183.28
+2022-12-31;4;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);645699;142349283.00
+2022-12-31;4;Site do Banco (Internet Banking);Pix;Não aplicável;164664458;904334549896.46
+2022-12-31;4;Centrais de Atendimento;Boletos e Convênios;Não aplicável;144404;311765824.27
+2022-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;100268474;0.00
+2022-12-31;4;Correspondentes no País;Depósito;Não aplicável;102234292;63948044163.75
+2022-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1227681;10223687284.31
+2022-12-31;4;Posto de Atendimento Cooperativo;Saque;Não aplicável;44640905;17481261706.07
+2022-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;184465958;0.00
+2022-12-31;4;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;3508446453;0.00
+2022-12-31;4;Agências;Boletos e Convênios;Não aplicável;57821676;135750287292.57
+2022-12-31;4;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1959959836;0.00
+2022-12-31;4;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1392877663;0.00
+2022-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;13580813;7861658832.43
+2022-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;941429;29257550321.68
+2022-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);485650;483236473.79
+2022-12-31;4;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;576486311;1860770156468.55
+2022-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;253920976;158827526707.18
+2022-12-31;4;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;354613765;1010336741477.68
+2022-12-31;4;Correspondentes no País;Boletos e Convênios;Não aplicável;279487489;104962064413.69
+2022-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;8200824;0.00
+2022-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);913025;152778039847.84
+2022-12-31;4;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;373517380;1404485966488.66
+2022-12-31;4;Agências;Ordem de Transferência de Crédito;Não aplicável;57215495;3286620230271.12
+2022-12-31;4;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;14;1601.06
+2022-12-31;4;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;902100;13937421926.97
+2022-12-31;4;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;6819407677;2038697964597.90
+2022-12-31;4;Centrais de Atendimento;Outras Financeiras;Não aplicável;370107;157211921181.33
+2022-12-31;4;Posto de Atendimento Cooperativo;Depósito;Não aplicável;17537096;16591075517.64
+2022-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;32044342;21940907904.70
+2022-12-31;4;Centrais de Atendimento;Pix;Não aplicável;94;20921500.11
+2022-12-31;4;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;16970778;61120851954.75
+2022-12-31;4;Agências;Empréstimos e Financiamentos;Não aplicável;172319489;546738641370.64
+2022-12-31;4;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;31782652;0.00
+2022-12-31;4;Agências;Saque;Não aplicável;42100533;273057372287.24
+2022-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);4202903;4027069001.00
+2022-12-31;4;Correspondentes no País;Saque;Não aplicável;127452802;78571401752.29
+2022-12-31;4;Correspondentes no País;Outras Financeiras;Não aplicável;104145;412274658.23
+2022-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;13084511;28455343829.59
+2022-12-31;4;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;42127;710346580.54
+2022-12-31;4;Correspondentes no País;Pix;Não aplicável;22942;7142755.43
+2022-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;4037014;6699087959.17
+2022-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;9223555;3550705043.61
+2022-12-31;4;Centrais de Atendimento;Outras não Financeiras;Não aplicável;30455817;0.00
+2022-12-31;4;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;223609627;67475478637.84
+2022-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;98711691;55745576506.44
+2022-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);103084491;0.00
+2022-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;37255631;45271147673.67
+2022-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);2954;27095.00
+2023-03-31;1;Agências;Depósito;Não aplicável;34711824;2639610925883.84
+2023-03-31;1;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;358986257;1439415850495.63
+2023-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;181117440;0.00
+2023-03-31;1;Agências;Ordem de Transferência de Crédito;Não aplicável;51792251;3175688394101.03
+2023-03-31;1;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1967816720;0.00
+2023-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;227122777;142236648055.34
+2023-03-31;1;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;27632045;0.00
+2023-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;9216438;3855845720.22
+2023-03-31;1;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;131560;2131743397.68
+2023-03-31;1;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;20153996;32981660881.73
+2023-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;3582684;5898561557.18
+2023-03-31;1;Correspondentes no País;Outras não Financeiras;Não aplicável;1681910;0.00
+2023-03-31;1;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;15823036;0.00
+2023-03-31;1;Correspondentes no País;Depósito;Não aplicável;101843491;64614355053.36
+2023-03-31;1;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;1365877;242342689.02
+2023-03-31;1;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;4748347;84088878157.88
+2023-03-31;1;Correspondentes no País;Pix;Não aplicável;16149;6462100.23
+2023-03-31;1;Centrais de Atendimento;Outras não Financeiras;Não aplicável;30244485;0.00
+2023-03-31;1;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;122765;15352295947.46
+2023-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);265668989;91898853980.05
+2023-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;34090566;24142942822.51
+2023-03-31;1;Correspondentes no País;Boletos e Convênios;Não aplicável;310530619;118458129534.23
+2023-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);446384;439541784.10
+2023-03-31;1;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;369233;1072224152.14
+2023-03-31;1;Centrais de Atendimento;Outras Financeiras;Não aplicável;310369;127092086649.13
+2023-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;85676526;48276706772.82
+2023-03-31;1;Correspondentes no País;Outras Financeiras;Não aplicável;291243;460015673.28
+2023-03-31;1;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;20029164726;0.00
+2023-03-31;1;Posto de Atendimento Cooperativo;Saque;Não aplicável;45554825;16764370935.09
+2023-03-31;1;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);750451;179441300.00
+2023-03-31;1;Agências;Consulta Saldo/Extrato;Não aplicável;128246957;0.00
+2023-03-31;1;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;954614359;0.00
+2023-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);4418745;4077732194.00
+2023-03-31;1;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;978164;14714488393.74
+2023-03-31;1;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;201478103;6662273981856.96
+2023-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;12267870;26939771121.40
+2023-03-31;1;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;3907632821;0.00
+2023-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;98436422;0.00
+2023-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;1000954;1351389367.89
+2023-03-31;1;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;1101755086;696074689992.03
+2023-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);735516;56641021080.51
+2023-03-31;1;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;611614847;1852667729987.17
+2023-03-31;1;Agências;Pix;Não aplicável;18771201;12910710548.08
+2023-03-31;1;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;327504002;907774183144.91
+2023-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);2371;185589.00
+2023-03-31;1;Agências;Saque;Não aplicável;40538533;248315037747.04
+2023-03-31;1;Site do Banco (Internet Banking);Pix;Não aplicável;169161566;909319621004.82
+2023-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;13593168;8003362944.27
+2023-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1105737;7037920418.93
+2023-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;921487;30106820729.53
+2023-03-31;1;Agências;Empréstimos e Financiamentos;Não aplicável;173506441;457879688904.30
+2023-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;8361738;0.00
+2023-03-31;1;Agências;Outras não Financeiras;Não aplicável;58383365;0.00
+2023-03-31;1;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;17623401;61861300390.04
+2023-03-31;1;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;675615007;224674377834.47
+2023-03-31;1;Correspondentes no País;Saque;Não aplicável;125395002;77848523715.78
+2023-03-31;1;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;44050597;133016629597.58
+2023-03-31;1;Posto de Atendimento Cooperativo;Depósito;Não aplicável;17609995;15691343086.20
+2023-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);149949;345554880.08
+2023-03-31;1;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;14;2082.75
+2023-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;34512022;41057226180.61
+2023-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;212641909;0.00
+2023-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);28265;0.00
+2023-03-31;1;Centrais de Atendimento;Boletos e Convênios;Não aplicável;139036;299573134.39
+2023-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);95506349;0.00
+2023-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;136980301;138753446535.07
+2023-03-31;1;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;232745909;74690451141.73
+2023-03-31;1;Agências;Outras Financeiras;Não aplicável;205764817;4135535832728.99
+2023-03-31;1;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;7124428598;1947470321132.41
+2023-03-31;1;Agências;Boletos e Convênios;Não aplicável;57147435;123846841762.47
+2023-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;232406733;149313630655.55
+2023-06-30;2;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;21586618;41991867506.32
+2023-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;135220492;126259668709.27
+2023-06-30;2;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;699994406;231963342949.85
+2023-06-30;2;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;29;4009.84
+2023-06-30;2;Agências;Boletos e Convênios;Não aplicável;48656859;122266280728.27
+2023-06-30;2;Agências;Pix;Não aplicável;76396430;19896369136.85
+2023-06-30;2;Agências;Depósito;Não aplicável;34960600;2359340230340.84
+2023-06-30;2;Posto de Atendimento Cooperativo;Depósito;Não aplicável;20220478;17792978517.29
+2023-06-30;2;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;317294973;925353768035.51
+2023-06-30;2;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;8266045777;2144585448127.39
+2023-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;3494108;5911333626.34
+2023-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1116786;26006837456.01
+2023-06-30;2;Centrais de Atendimento;Outras não Financeiras;Não aplicável;28824394;0.00
+2023-06-30;2;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;16020674;0.00
+2023-06-30;2;Agências;Empréstimos e Financiamentos;Não aplicável;172781706;497268869975.31
+2023-06-30;2;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;198977628;73277906829.70
+2023-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);4919278;4316676719.00
+2023-06-30;2;Posto de Atendimento Cooperativo;Saque;Não aplicável;49653226;17643397933.18
+2023-06-30;2;Agências;Ordem de Transferência de Crédito;Não aplicável;51767351;3302215150346.10
+2023-06-30;2;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;20959203556;0.00
+2023-06-30;2;Centrais de Atendimento;Boletos e Convênios;Não aplicável;124293;219507377.54
+2023-06-30;2;Agências;Outras não Financeiras;Não aplicável;58681927;0.00
+2023-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;35102799;40606877881.11
+2023-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;873522;30328021795.75
+2023-06-30;2;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;26588370;0.00
+2023-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;12032544;6954350593.06
+2023-06-30;2;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;177767;3095933074.73
+2023-06-30;2;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;908857146;0.00
+2023-06-30;2;Correspondentes no País;Outras não Financeiras;Não aplicável;1547958;0.00
+2023-06-30;2;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;1630738;285220397.06
+2023-06-30;2;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;17365595;69760680340.15
+2023-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);1573;5731.00
+2023-06-30;2;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);919973;237578660.00
+2023-06-30;2;Posto de Atendimento Cooperativo;Empréstimos e Financiamentos;Não aplicável;2431;9654080.18
+2023-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;834298;1553861397.26
+2023-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;85038759;49729919578.32
+2023-06-30;2;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;349288338;1450491980144.61
+2023-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);96206737;0.00
+2023-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;8370225;3610520831.16
+2023-06-30;2;Correspondentes no País;Depósito;Não aplicável;98252333;65027491099.92
+2023-06-30;2;Correspondentes no País;Boletos e Convênios;Não aplicável;263808383;100450286079.14
+2023-06-30;2;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;43567677;132193911883.41
+2023-06-30;2;Correspondentes no País;Saque;Não aplicável;124333416;78522425966.69
+2023-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;11503485;27720624140.54
+2023-06-30;2;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;378406;1150974050.60
+2023-06-30;2;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;202518011;7024211289119.79
+2023-06-30;2;Centrais de Atendimento;Outras Financeiras;Não aplicável;314545;133939514349.39
+2023-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;192863410;0.00
+2023-06-30;2;Correspondentes no País;Outras Financeiras;Não aplicável;301394;293823333.98
+2023-06-30;2;Agências;Outras Financeiras;Não aplicável;201931400;3847110400231.52
+2023-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;94337905;0.00
+2023-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;212282250;0.00
+2023-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);459661;451268386.13
+2023-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);27541;0.00
+2023-06-30;2;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1775950387;0.00
+2023-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;7658635;0.00
+2023-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);734442;161994405575.80
+2023-06-30;2;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;116363;13481913942.69
+2023-06-30;2;Correspondentes no País;Pix;Não aplicável;5910;2025862.08
+2023-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);267013011;91476868954.00
+2023-06-30;2;Site do Banco (Internet Banking);Pix;Não aplicável;189999749;1050011590238.27
+2023-06-30;2;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;3833103114;0.00
+2023-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;29048880;19729916953.87
+2023-06-30;2;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;663625354;1900462231345.14
+2023-06-30;2;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;1009488;15079603973.92
+2023-06-30;2;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;1103649482;698321431943.24
+2023-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);131933;298681635.14
+2023-06-30;2;Agências;Consulta Saldo/Extrato;Não aplicável;122580371;0.00
+2023-06-30;2;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;4906292;99925962355.09
+2023-06-30;2;Agências;Saque;Não aplicável;40787264;256293225987.31
+2023-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;11008882;25617874025.58
+2023-09-30;3;Posto de Atendimento Cooperativo;Saque;Não aplicável;55398692;17851985898.26
+2023-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);5603567;4690637705.00
+2023-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;6890287;0.00
+2023-09-30;3;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;15288746;0.00
+2023-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;10479024;6092954869.14
+2023-09-30;3;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;18284595;78416079244.18
+2023-09-30;3;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;233417;3986696565.61
+2023-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;141209083;123770262837.46
+2023-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1189983;8165930863.32
+2023-09-30;3;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;11;2033.96
+2023-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;223640055;144767569739.25
+2023-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);27432;0.00
+2023-09-30;3;Agências;Outras Financeiras;Não aplicável;153182457;3459916426857.80
+2023-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);679481;69228117848.93
+2023-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;80484959;47729466267.04
+2023-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;196223554;0.00
+2023-09-30;3;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;9580933807;2311798804513.05
+2023-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;32692283;37632826380.63
+2023-09-30;3;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;95662084;140777224276.80
+2023-09-30;3;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;22388158216;0.00
+2023-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);263732115;88228192311.00
+2023-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;616710;1474399026.02
+2023-09-30;3;Centrais de Atendimento;Outras não Financeiras;Não aplicável;32177676;0.00
+2023-09-30;3;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;6779856;107967485978.31
+2023-09-30;3;Centrais de Atendimento;Boletos e Convênios;Não aplicável;128068;262733549.68
+2023-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);107678;234184900.21
+2023-09-30;3;Posto de Atendimento Cooperativo;Empréstimos e Financiamentos;Não aplicável;2276;13781922.15
+2023-09-30;3;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;324854210;962702401393.75
+2023-09-30;3;Correspondentes no País;Outras Financeiras;Não aplicável;323896;306854607.91
+2023-09-30;3;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;25038683;0.00
+2023-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;3152922;5240413039.46
+2023-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);447376;451862390.17
+2023-09-30;3;Correspondentes no País;Outras não Financeiras;Não aplicável;1865993;0.00
+2023-09-30;3;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;693269816;239741324362.17
+2023-09-30;3;Agências;Pix;Não aplicável;60988127;18713554621.33
+2023-09-30;3;Agências;Saque;Não aplicável;36886285;252571120497.21
+2023-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);92467044;0.00
+2023-09-30;3;Agências;Ordem de Transferência de Crédito;Não aplicável;50408531;3094168364821.80
+2023-09-30;3;Agências;Empréstimos e Financiamentos;Não aplicável;172545614;517027731755.66
+2023-09-30;3;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;1997067;393844137.83
+2023-09-30;3;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);1093065;306733208.00
+2023-09-30;3;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;107116;14447802010.24
+2023-09-30;3;Correspondentes no País;Boletos e Convênios;Não aplicável;251618852;92771663356.48
+2023-09-30;3;Agências;Boletos e Convênios;Não aplicável;46891692;114726967606.96
+2023-09-30;3;Site do Banco (Internet Banking);Pix;Não aplicável;194157197;1093164355501.81
+2023-09-30;3;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;3633064;11599647475.37
+2023-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;26887164;18094344381.91
+2023-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);1245;2981.00
+2023-09-30;3;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;606171244;1947813038148.49
+2023-09-30;3;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;201583561;79678235761.13
+2023-09-30;3;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;461475;1457068573.18
+2023-09-30;3;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;1061302473;683421852868.55
+2023-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;88583346;0.00
+2023-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;8117305;4465710229.90
+2023-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;198758775;0.00
+2023-09-30;3;Agências;Consulta Saldo/Extrato;Não aplicável;122145021;0.00
+2023-09-30;3;Correspondentes no País;Saque;Não aplicável;122827742;76145368568.23
+2023-09-30;3;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;203465680;6711514505360.52
+2023-09-30;3;Posto de Atendimento Cooperativo;Depósito;Não aplicável;22041486;17876848685.16
+2023-09-30;3;Correspondentes no País;Depósito;Não aplicável;102605619;69161445734.60
+2023-09-30;3;Agências;Depósito;Não aplicável;35141402;2378432669529.09
+2023-09-30;3;Agências;Outras não Financeiras;Não aplicável;57166212;0.00
+2023-09-30;3;Caixa Eletrônico;Pix;Caixa Eletrônico / Acesso Restrito;3;3300.00
+2023-09-30;3;Centrais de Atendimento;Outras Financeiras;Não aplicável;317416;132382893015.16
+2023-09-30;3;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;4055471962;0.00
+2023-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;880799;29572014896.76
+2023-09-30;3;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1680136827;0.00
+2023-09-30;3;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;415578695;1537212386130.90
+2023-09-30;3;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;64526003;64788345141.01
+2023-09-30;3;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;950380668;0.00
+2023-12-31;4;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;1062982205;731420302452.25
+2023-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;87494511;0.00
+2023-12-31;4;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;57980859;0.00
+2023-12-31;4;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;21866654005;0.00
+2023-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);6054477;4982501185.00
+2023-12-31;4;Correspondentes no País;Depósito;Não aplicável;98008251;67983194719.03
+2023-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);99198;223219947.45
+2023-12-31;4;Agências;Empréstimos e Financiamentos;Não aplicável;161661030;525575985060.15
+2023-12-31;4;Agências;Pix;Não aplicável;72892983;25420973132.54
+2023-12-31;4;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);1241485;383757878.00
+2023-12-31;4;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;376774;1242497048.26
+2023-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;654737;1932379301.80
+2023-12-31;4;Centrais de Atendimento;Outras Financeiras;Não aplicável;310289;184817371162.55
+2023-12-31;4;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;40200754;121303189265.38
+2023-12-31;4;Correspondentes no País;Outras não Financeiras;Não aplicável;1707681;0.00
+2023-12-31;4;Agências;Consulta Saldo/Extrato;Não aplicável;112903268;0.00
+2023-12-31;4;Correspondentes no País;Outras Financeiras;Não aplicável;301222;344564298.71
+2023-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;272862287;0.00
+2023-12-31;4;Agências;Saque;Não aplicável;37218099;275937767134.72
+2023-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;10155433;6199198266.72
+2023-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;841426;29457147055.52
+2023-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);91366867;0.00
+2023-12-31;4;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;19844375;82553894526.49
+2023-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;8112220;4964794797.43
+2023-12-31;4;Posto de Atendimento Cooperativo;Depósito;Não aplicável;25233820;18534160937.19
+2023-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;3086395;5153405423.06
+2023-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;217957879;142900703586.06
+2023-12-31;4;Caixa Eletrônico;Pix;Caixa Eletrônico / Acesso Restrito;1;1790.00
+2023-12-31;4;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;14892016;0.00
+2023-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;190027320;0.00
+2023-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);262076856;88270862314.31
+2023-12-31;4;Agências;Outras Financeiras;Não aplicável;156265025;3467267418185.45
+2023-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;28018448;20679444520.89
+2023-12-31;4;Agências;Outras não Financeiras;Não aplicável;53564442;0.00
+2023-12-31;4;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1497313558;0.00
+2023-12-31;4;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;2511345;567775641.01
+2023-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;10688215;24749235642.97
+2023-12-31;4;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;859643;11657640271.78
+2023-12-31;4;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;209734122;82920681981.73
+2023-12-31;4;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;4706688052;0.00
+2023-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1166246;7895804487.06
+2023-12-31;4;Agências;Depósito;Não aplicável;34381833;2298338998511.46
+2023-12-31;4;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;578234;29863742264.84
+2023-12-31;4;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;407817691;1579226782076.30
+2023-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;31998035;36133556597.35
+2023-12-31;4;Agências;Saques via Pix;Não aplicável;1;900.00
+2023-12-31;4;Centrais de Atendimento;Outras não Financeiras;Não aplicável;27070524;0.00
+2023-12-31;4;Correspondentes no País;Saque;Não aplicável;119396448;74799020415.02
+2023-12-31;4;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;740861638;0.00
+2023-12-31;4;Agências;Boletos e Convênios;Não aplicável;45683905;141672631123.86
+2023-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;81770324;49354317917.25
+2023-12-31;4;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;218407777;7246169934955.26
+2023-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;6461043;0.00
+2023-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);602991;84614161329.96
+2023-12-31;4;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;49888735;54040471468.52
+2023-12-31;4;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;573475454;1985417049797.69
+2023-12-31;4;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;326746776;1013161395592.14
+2023-12-31;4;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;43;16612.53
+2023-12-31;4;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;11088441114;2648081428456.57
+2023-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;70272003;68224031845.08
+2023-12-31;4;Site do Banco (Internet Banking);Pix;Não aplicável;425652227;1282710271349.79
+2023-12-31;4;Agências;Ordem de Transferência de Crédito;Não aplicável;88976239;4284991463723.09
+2023-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);440217;456809410.83
+2023-12-31;4;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;723504038;260364490693.93
+2023-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);967;49739.00
+2023-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);24062;0.00
+2023-12-31;4;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;242240;4542545464.48
+2023-12-31;4;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;86796;11167587093.98
+2023-12-31;4;Centrais de Atendimento;Boletos e Convênios;Não aplicável;74043;122850527.87
+2023-12-31;4;Posto de Atendimento Cooperativo;Saque;Não aplicável;63949109;18623401384.89
+2023-12-31;4;Correspondentes no País;Boletos e Convênios;Não aplicável;245918438;93257707689.16
+2023-12-31;4;Posto de Atendimento Cooperativo;Empréstimos e Financiamentos;Não aplicável;892;11329958.00
+2024-03-31;1;Correspondentes no País;Boletos e Convênios;Não aplicável;237343464;96898148791.75
+2024-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;130738020;0.00
+2024-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;195412895;130206772495.42
+2024-03-31;1;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;786864483;0.00
+2024-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;815561;28415682171.80
+2024-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;6603422;0.00
+2024-03-31;1;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;178885534;86524819301.83
+2024-03-31;1;Correspondentes no País;Depósito;Não aplicável;88585365;62347207990.87
+2024-03-31;1;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;57385231;0.00
+2024-03-31;1;Centrais de Atendimento;Outras não Financeiras;Não aplicável;13869272;0.00
+2024-03-31;1;Agências;Outras não Financeiras;Não aplicável;53994018;0.00
+2024-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);83619537;0.00
+2024-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;71992204;75397770962.55
+2024-03-31;1;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;560598136;1607777796475.39
+2024-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);6214846;5089779562.00
+2024-03-31;1;Agências;Empréstimos e Financiamentos;Não aplicável;166854780;509612005632.16
+2024-03-31;1;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;2744757;652081314.30
+2024-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);1680;10870.00
+2024-03-31;1;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;335924680;1026981841353.45
+2024-03-31;1;Posto de Atendimento Cooperativo;Depósito;Não aplicável;25588010;18305629862.57
+2024-03-31;1;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;31698041;83837171137.90
+2024-03-31;1;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;828339;18146496247.30
+2024-03-31;1;Posto de Atendimento Cooperativo;Saque;Não aplicável;66416194;18636563188.55
+2024-03-31;1;Agências;Depósito;Não aplicável;31055726;2267783651744.38
+2024-03-31;1;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;3885646737;0.00
+2024-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);236865221;78391052141.30
+2024-03-31;1;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;40286357;92997617268.36
+2024-03-31;1;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;305068879;948832894572.81
+2024-03-31;1;Centrais de Atendimento;Boletos e Convênios;Não aplicável;40554;41859020.76
+2024-03-31;1;Agências;Outras Financeiras;Não aplicável;157786830;3370956151472.79
+2024-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);105373;253475930.06
+2024-03-31;1;Agências;Saque;Não aplicável;34460626;186502520215.86
+2024-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;7447127;5174410455.81
+2024-03-31;1;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;22931861085;0.00
+2024-03-31;1;Correspondentes no País;Outras Financeiras;Não aplicável;348105;286628401.33
+2024-03-31;1;Agências;Consulta Saldo/Extrato;Não aplicável;117265193;0.00
+2024-03-31;1;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;76011;12768301716.60
+2024-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;180088068;0.00
+2024-03-31;1;Site do Banco (Internet Banking);Pix;Não aplicável;298112352;1351517791786.22
+2024-03-31;1;Posto de Atendimento Cooperativo;Pix;Não aplicável;27;147766.93
+2024-03-31;1;Correspondentes no País;Outras não Financeiras;Não aplicável;784052;0.00
+2024-03-31;1;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;35;10487.91
+2024-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;22523415;17740343935.11
+2024-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);537452;74554186045.06
+2024-03-31;1;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);1307392;421590340.00
+2024-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;9554656;21878471072.63
+2024-03-31;1;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;274810;4504900476.20
+2024-03-31;1;Centrais de Atendimento;Pix;Não aplicável;8;1455.98
+2024-03-31;1;Centrais de Atendimento;Outras Financeiras;Não aplicável;265938;117005194748.90
+2024-03-31;1;Agências;Pix;Não aplicável;82912113;27280492546.65
+2024-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;95470147;0.00
+2024-03-31;1;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;11865272668;2856874563683.22
+2024-03-31;1;Agências;Ordem de Transferência de Crédito;Não aplicável;49286775;2235967636215.43
+2024-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;888998;5792992027.61
+2024-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);18926;0.00
+2024-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;605702;1980369766.08
+2024-03-31;1;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;914334070;687272476460.76
+2024-03-31;1;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;360603;1118254404.14
+2024-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;2808100;4687142650.10
+2024-03-31;1;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;14528620;0.00
+2024-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;10411537;6562327021.96
+2024-03-31;1;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;589811861;206425574736.74
+2024-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;71785743;43841019501.77
+2024-03-31;1;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;490201;26410388421.60
+2024-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);391420;406228435.12
+2024-03-31;1;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;48973827;52778432660.04
+2024-03-31;1;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1287070611;0.00
+2024-03-31;1;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;189603718;5865675108275.05
+2024-03-31;1;Posto de Atendimento Cooperativo;Empréstimos e Financiamentos;Não aplicável;573;10479011.03
+2024-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;30939898;34433216720.94
+2024-03-31;1;Agências;Boletos e Convênios;Não aplicável;44595525;114892544590.96
+2024-03-31;1;Correspondentes no País;Saque;Não aplicável;110188859;70135827834.19
+2024-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;2826476;4824935829.78
+2024-06-30;2;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;32471301;95366843029.63
+2024-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);479086;76036454978.57
+2024-06-30;2;Agências;Outras não Financeiras;Não aplicável;55706232;0.00
+2024-06-30;2;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;45177747;123713449897.25
+2024-06-30;2;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;40;5341.82
+2024-06-30;2;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);1219868;422574160.00
+2024-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;172658465;0.00
+2024-06-30;2;Site do Banco (Internet Banking);Pix;Não aplicável;364972720;1642070505217.83
+2024-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;74024651;75013879096.98
+2024-06-30;2;Correspondentes no País;Saque;Não aplicável;113302516;75387677743.12
+2024-06-30;2;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;371114275;1128905748133.15
+2024-06-30;2;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;15176743;0.00
+2024-06-30;2;Agências;Consulta Saldo/Extrato;Não aplicável;118607026;0.00
+2024-06-30;2;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;4213342758;0.00
+2024-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);6189989;4903693875.00
+2024-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);2517;11891.00
+2024-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;30648989;33937852209.28
+2024-06-30;2;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;162330951;90626512702.27
+2024-06-30;2;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;320441713;1018784209526.25
+2024-06-30;2;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1421321323;0.00
+2024-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;9601259;22739942514.55
+2024-06-30;2;Agências;Empréstimos e Financiamentos;Não aplicável;162488126;577430039504.34
+2024-06-30;2;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;373667;1157073393.96
+2024-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;20485133;16119652149.27
+2024-06-30;2;Correspondentes no País;Boletos e Convênios;Não aplicável;228520959;95355459364.72
+2024-06-30;2;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;51916945;58284143742.46
+2024-06-30;2;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;563601280;1747394717898.29
+2024-06-30;2;Posto de Atendimento Cooperativo;Pix;Não aplicável;58;80110701.48
+2024-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;5957053;0.00
+2024-06-30;2;Posto de Atendimento Cooperativo;Depósito;Não aplicável;30424612;22159840949.25
+2024-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);412984;447583725.52
+2024-06-30;2;Correspondentes no País;Depósito;Não aplicável;93828271;68658719136.96
+2024-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1094736;7237264024.51
+2024-06-30;2;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;82105;12749594489.32
+2024-06-30;2;Agências;Pix;Não aplicável;76288710;27794981225.23
+2024-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);105463;227600292.04
+2024-06-30;2;Correspondentes no País;Outras não Financeiras;Não aplicável;775662;0.00
+2024-06-30;2;Centrais de Atendimento;Outras não Financeiras;Não aplicável;13504215;0.00
+2024-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;754699;28087091760.77
+2024-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;83750081;0.00
+2024-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;9272629;5734043733.62
+2024-06-30;2;Posto de Atendimento Cooperativo;Empréstimos e Financiamentos;Não aplicável;657;11637859.31
+2024-06-30;2;Agências;Boletos e Convênios;Não aplicável;41669503;117362807742.29
+2024-06-30;2;Agências;Outras Financeiras;Não aplicável;163815363;3751364870255.31
+2024-06-30;2;Correspondentes no País;Outras Financeiras;Não aplicável;305191;293862955.26
+2024-06-30;2;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;13489463362;3250197617117.14
+2024-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;502815;1691343593.99
+2024-06-30;2;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1201441410;0.00
+2024-06-30;2;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;56619027;0.00
+2024-06-30;2;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;444064;30928290226.47
+2024-06-30;2;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;723869;17783250572.33
+2024-06-30;2;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;964201048;738045707458.71
+2024-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;6640156;4449953056.85
+2024-06-30;2;Correspondentes no País;Pix;Não aplicável;157563;453918756.92
+2024-06-30;2;Agências;Ordem de Transferência de Crédito;Não aplicável;62465440;3102604516856.76
+2024-06-30;2;Posto de Atendimento Cooperativo;Saque;Não aplicável;73718798;20069481988.23
+2024-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;132835957;0.00
+2024-06-30;2;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;2897513;668538591.49
+2024-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);20239;0.00
+2024-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;72726525;46816612607.42
+2024-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);83822431;0.00
+2024-06-30;2;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;27438104544;0.00
+2024-06-30;2;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;582094514;243229050065.97
+2024-06-30;2;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;198819516;6479779939523.32
+2024-06-30;2;Centrais de Atendimento;Boletos e Convênios;Não aplicável;37118;47525710.81
+2024-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;205969048;145269392037.72
+2024-06-30;2;Centrais de Atendimento;Outras Financeiras;Não aplicável;282185;142648857704.89
+2024-06-30;2;Agências;Depósito;Não aplicável;31440381;2413704424404.28
+2024-06-30;2;Agências;Saque;Não aplicável;34720322;230373322781.24
+2024-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);235962038;80335890136.38
+2024-06-30;2;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;284438;5838128982.54
+2024-09-30;3;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;74765;13601220415.26
+2024-09-30;3;Correspondentes no País;Boletos e Convênios;Não aplicável;227532843;99579560026.11
+2024-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;67741013;43099077585.90
+2024-09-30;3;Agências;Saque;Não aplicável;32230822;189008542484.08
+2024-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;2598879;4376123141.61
+2024-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;5160784;0.00
+2024-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);2372;28623.00
+2024-09-30;3;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;597305199;1768996562709.12
+2024-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;755747;28915561795.22
+2024-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;194202146;133927559510.04
+2024-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);222677190;75178132893.66
+2024-09-30;3;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;14496974628;3545328803353.98
+2024-09-30;3;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;3306360;844494030.25
+2024-09-30;3;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1216695596;0.00
+2024-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;160152187;0.00
+2024-09-30;3;Posto de Atendimento Cooperativo;Empréstimos e Financiamentos;Não aplicável;706;12975999.16
+2024-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);77991266;0.00
+2024-09-30;3;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;41;12727.88
+2024-09-30;3;Centrais de Atendimento;Outras Financeiras;Não aplicável;267243;125734776226.72
+2024-09-30;3;Correspondentes no País;Pix;Não aplicável;72614;200637525.70
+2024-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1164755;5373865931.78
+2024-09-30;3;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;44996697;131816967222.57
+2024-09-30;3;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;14035629;0.00
+2024-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;128243425;0.00
+2024-09-30;3;Agências;Boletos e Convênios;Não aplicável;43466203;103259414941.49
+2024-09-30;3;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;26849796042;0.00
+2024-09-30;3;Posto de Atendimento Cooperativo;Depósito;Não aplicável;32114366;22691849514.53
+2024-09-30;3;Correspondentes no País;Outras não Financeiras;Não aplicável;750358;0.00
+2024-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);99232;221796491.12
+2024-09-30;3;Agências;Pix;Não aplicável;90344534;30793024052.14
+2024-09-30;3;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;154027562;96945786590.90
+2024-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);6469150;5054901567.00
+2024-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;72077078;73868642065.32
+2024-09-30;3;Correspondentes no País;Saque;Não aplicável;108703548;70601331199.98
+2024-09-30;3;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;195005088;6726358961248.79
+2024-09-30;3;Site do Banco (Internet Banking);Pix;Não aplicável;437400888;1802619346141.72
+2024-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;77332186;0.00
+2024-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;29659202;32583335605.24
+2024-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);383137;415080354.02
+2024-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;482187;1137898621.64
+2024-09-30;3;Agências;Outras Financeiras;Não aplicável;167121015;4210067427543.12
+2024-09-30;3;Posto de Atendimento Cooperativo;Pix;Não aplicável;78;22422402.80
+2024-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;8820413;22358422867.20
+2024-09-30;3;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;391496494;1047679910038.10
+2024-09-30;3;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;672982800;270883700972.70
+2024-09-30;3;Agências;Ordem de Transferência de Crédito;Não aplicável;57995638;3407206122113.35
+2024-09-30;3;Agências;Empréstimos e Financiamentos;Não aplicável;160511674;595507966772.79
+2024-09-30;3;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);1440142;515523073.00
+2024-09-30;3;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;430266;32384605998.19
+2024-09-30;3;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;697489;20656214244.73
+2024-09-30;3;Posto de Atendimento Cooperativo;Saque;Não aplicável;80804110;22255699721.63
+2024-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;8378873;5220403702.62
+2024-09-30;3;Centrais de Atendimento;Outras não Financeiras;Não aplicável;11875075;0.00
+2024-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;18696477;15050723806.21
+2024-09-30;3;Agências;Depósito;Não aplicável;30615662;2689358538709.29
+2024-09-30;3;Correspondentes no País;Outras Financeiras;Não aplicável;295220;288355715.69
+2024-09-30;3;Agências;Outras não Financeiras;Não aplicável;53783994;0.00
+2024-09-30;3;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;370977744;1171809036708.28
+2024-09-30;3;Agências;Consulta Saldo/Extrato;Não aplicável;118177772;0.00
+2024-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);17532;0.00
+2024-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);426667;40666676485.51
+2024-09-30;3;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;319338;6935887727.66
+2024-09-30;3;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1320589728;0.00
+2024-09-30;3;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;912848937;737239030320.29
+2024-09-30;3;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;450809;1263070640.68
+2024-09-30;3;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;49410398;0.00
+2024-09-30;3;Correspondentes no País;Depósito;Não aplicável;92288726;67701227875.37
+2024-09-30;3;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;61335904;101444901008.90
+2024-09-30;3;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;4209227143;0.00
+2024-09-30;3;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;54819157;63343612894.95
+2024-09-30;3;Centrais de Atendimento;Boletos e Convênios;Não aplicável;29116;39300196.77
+2024-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;6402472;4738028621.42
+2024-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;76038905;0.00
+2024-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);6693679;5281601357.00
+2024-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);395692;35346631943.01
+2024-12-31;4;Agências;Depósito;Não aplicável;29300969;2717376931857.92
+2024-12-31;4;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;44653860;146697690703.62
+2024-12-31;4;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;3671269;952215078.65
+2024-12-31;4;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;361613145;1204364109100.39
+2024-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);3026;30307.00
+2024-12-31;4;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;31;4725.63
+2024-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;6335966;3757926186.39
+2024-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;4395471;0.00
+2024-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;68912979;71984741953.28
+2024-12-31;4;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;332009;8412443520.69
+2024-12-31;4;Posto de Atendimento Cooperativo;Empréstimos e Financiamentos;Não aplicável;642;11860372.55
+2024-12-31;4;Correspondentes no País;Depósito;Não aplicável;88289544;67324229874.48
+2024-12-31;4;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1285270311;0.00
+2024-12-31;4;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;14066543;0.00
+2024-12-31;4;Agências;Boletos e Convênios;Não aplicável;42995010;105991044067.65
+2024-12-31;4;Site do Banco (Internet Banking);Pix;Não aplicável;340368803;2050929834565.36
+2024-12-31;4;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;69837435;85963606384.48
+2024-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);17813;0.00
+2024-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1207952;5535014269.13
+2024-12-31;4;Correspondentes no País;Outras não Financeiras;Não aplicável;667080;0.00
+2024-12-31;4;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;609514;18721918552.26
+2024-12-31;4;Posto de Atendimento Cooperativo;Saque;Não aplicável;87670851;23661227078.06
+2024-12-31;4;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;55490688;66051166317.07
+2024-12-31;4;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;27538463200;0.00
+2024-12-31;4;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);1558161;580164861.50
+2024-12-31;4;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;544745077;280183909980.14
+2024-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;28685963;32008198106.73
+2024-12-31;4;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1235264030;0.00
+2024-12-31;4;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;878757837;742586184264.26
+2024-12-31;4;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;4345858175;0.00
+2024-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;17091086;14186937518.01
+2024-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);223237977;78063103638.66
+2024-12-31;4;Correspondentes no País;Outras Financeiras;Não aplicável;285847;312023068.82
+2024-12-31;4;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;216932840;6767483348580.96
+2024-12-31;4;Centrais de Atendimento;Outras não Financeiras;Não aplicável;11041389;0.00
+2024-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);393059;432268860.96
+2024-12-31;4;Centrais de Atendimento;Outras Financeiras;Não aplicável;223153;200780077309.85
+2024-12-31;4;Agências;Saque;Não aplicável;34013561;189399124476.71
+2024-12-31;4;Agências;Pix;Não aplicável;111914029;32881884859.79
+2024-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);91501;179622172.20
+2024-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;7668029;4873511531.57
+2024-12-31;4;Posto de Atendimento Cooperativo;Pix;Não aplicável;236;88405336.91
+2024-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;729304;31589383149.94
+2024-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);80683456;0.00
+2024-12-31;4;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;600091145;1782861100850.96
+2024-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;8837149;21306254502.40
+2024-12-31;4;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;15667158117;3863426756359.13
+2024-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;2508262;4224818699.90
+2024-12-31;4;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;30041887;0.00
+2024-12-31;4;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;337084266;851031342050.67
+2024-12-31;4;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;64883;4387361176.78
+2024-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;156386133;0.00
+2024-12-31;4;Correspondentes no País;Boletos e Convênios;Não aplicável;216687317;94858835586.78
+2024-12-31;4;Agências;Empréstimos e Financiamentos;Não aplicável;159013552;623673566249.41
+2024-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;381520;1022801412.50
+2024-12-31;4;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;415291;29186445480.12
+2024-12-31;4;Agências;Outras Financeiras;Não aplicável;174488778;4373258579723.82
+2024-12-31;4;Agências;Ordem de Transferência de Crédito;Não aplicável;62345501;3507677143175.04
+2024-12-31;4;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;157075831;100130421498.28
+2024-12-31;4;Correspondentes no País;Saque;Não aplicável;104815987;69128752865.95
+2024-12-31;4;Posto de Atendimento Cooperativo;Depósito;Não aplicável;34689924;23536339748.63
+2024-12-31;4;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;502312;1592720681.84
+2024-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;64227635;42525424932.87
+2024-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;130108801;0.00
+2024-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;194296988;135749328360.26
+2024-12-31;4;Agências;Outras não Financeiras;Não aplicável;49785788;0.00
+2024-12-31;4;Centrais de Atendimento;Boletos e Convênios;Não aplicável;24148;28726950.30
+2024-12-31;4;Agências;Consulta Saldo/Extrato;Não aplicável;109294910;0.00
+2025-03-31;1;Centrais de Atendimento;Boletos e Convênios;Não aplicável;19906;24530123.00
+2025-03-31;1;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;42286165;147219877681.55
+2025-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;7659754;19038915233.31
+2025-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);2831;18083.00
+2025-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;696706;26851440803.83
+2025-03-31;1;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;338460791;1004354975658.37
+2025-03-31;1;Agências;Saque;Não aplicável;28574832;167025738094.12
+2025-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1113387;5346581995.47
+2025-03-31;1;Agências;Outras não Financeiras;Não aplicável;46766106;0.00
+2025-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);257793;7407519029.61
+2025-03-31;1;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;10384488;0.00
+2025-03-31;1;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;3568759;1017033198.55
+2025-03-31;1;Posto de Atendimento Cooperativo;Pix;Não aplicável;164;84008782.88
+2025-03-31;1;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;1781640;182154833983.73
+2025-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;67132779;67938804441.11
+2025-03-31;1;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1078178400;0.00
+2025-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;124855701;0.00
+2025-03-31;1;Agências;Depósito;Não aplicável;26751974;2661869071774.71
+2025-03-31;1;Agências;Boletos e Convênios;Não aplicável;45965944;107003219364.70
+2025-03-31;1;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;296648;998953183.15
+2025-03-31;1;Site do Banco (Internet Banking);Pix;Não aplicável;263884453;1961115787302.88
+2025-03-31;1;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);1405996;543311327.00
+2025-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;3563037;0.00
+2025-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;2294501;3767419860.28
+2025-03-31;1;Agências;Pix;Não aplicável;118785070;33658518723.51
+2025-03-31;1;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;854864050;719627344396.49
+2025-03-31;1;Centrais de Atendimento;Outras Financeiras;Não aplicável;197966;128613656186.59
+2025-03-31;1;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;388085;25763825524.09
+2025-03-31;1;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;12154310263;0.00
+2025-03-31;1;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;53793072;64331565623.93
+2025-03-31;1;Correspondentes no País;Boletos e Convênios;Não aplicável;210339726;92249600629.26
+2025-03-31;1;Agências;Consulta Saldo/Extrato;Não aplicável;109502175;0.00
+2025-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);99603;187864588.75
+2025-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;174684398;124374354512.93
+2025-03-31;1;Agências;Empréstimos e Financiamentos;Não aplicável;163031439;514040954901.46
+2025-03-31;1;Correspondentes no País;Saque;Não aplicável;98341628;66667920598.66
+2025-03-31;1;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;371297493;278671519799.48
+2025-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);76092806;0.00
+2025-03-31;1;Posto de Atendimento Cooperativo;Depósito;Não aplicável;32493903;20917093924.60
+2025-03-31;1;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;44;28332.74
+2025-03-31;1;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;24260145149;0.00
+2025-03-31;1;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;15244285698;3680065651487.51
+2025-03-31;1;Agências;Ordem de Transferência de Crédito;Não aplicável;55855137;3155906440752.72
+2025-03-31;1;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;82023374;78016892108.41
+2025-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);205514980;72372095371.00
+2025-03-31;1;Correspondentes no País;Outras não Financeiras;Não aplicável;689904;0.00
+2025-03-31;1;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;329885611;1289220481903.10
+2025-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;27935274;32401392168.78
+2025-03-31;1;Posto de Atendimento Cooperativo;Saque;Não aplicável;83596990;22367624138.97
+2025-03-31;1;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;158501974;115780666433.16
+2025-03-31;1;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;61750;3905499536.90
+2025-03-31;1;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1173212401;21311.15
+2025-03-31;1;Posto de Atendimento Cooperativo;Empréstimos e Financiamentos;Não aplicável;527;7883089.37
+2025-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);89996;114598934.23
+2025-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;144025556;0.00
+2025-03-31;1;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;318102;7357458195.20
+2025-03-31;1;Agências;Outras Financeiras;Não aplicável;207166975;4114273194941.45
+2025-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);17168;0.00
+2025-03-31;1;Caixa Eletrônico;Pix;Caixa Eletrônico / Acesso Restrito;8;6145.00
+2025-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;7699543;5002996522.02
+2025-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;71704413;0.00
+2025-03-31;1;Correspondentes no País;Depósito;Não aplicável;80529473;60840646822.22
+2025-03-31;1;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;185834462;6196901746875.43
+2025-03-31;1;Correspondentes no País;Outras Financeiras;Não aplicável;412327;803721848.69
+2025-03-31;1;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;13783660;0.00
+2025-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;436221;950414263.34
+2025-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;64018053;42127165454.96
+2025-03-31;1;Centrais de Atendimento;Outras não Financeiras;Não aplicável;10563122;0.00
+2025-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;6829141;4271715350.27
+2025-03-31;1;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;548549194;1652081327374.35
+2025-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;17594859;14698161130.37
+2025-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);6516323;4962362746.00
+2025-06-30;2;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;347724321;333821905434.46
+2025-06-30;2;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;4067336;1198591267.14
+2025-06-30;2;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;327854833;1371658024904.54
+2025-06-30;2;Centrais de Atendimento;Pix;Não aplicável;119;397014.49
+2025-06-30;2;Correspondentes no País;Outras não Financeiras;Não aplicável;590031;0.00
+2025-06-30;2;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;43;16090.78
+2025-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);7160389;5387548958.87
+2025-06-30;2;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;16864111216;3992469255548.07
+2025-06-30;2;Posto de Atendimento Cooperativo;Pix;Não aplicável;135;115690302.36
+2025-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);16875;0.00
+2025-06-30;2;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;66361;6026405139.11
+2025-06-30;2;Posto de Atendimento Cooperativo;Depósito;Não aplicável;36740980;24258678303.20
+2025-06-30;2;Agências;Outras não Financeiras;Não aplicável;39600947;0.00
+2025-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;341029;526683729.58
+2025-06-30;2;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;186154501;6380209278755.74
+2025-06-30;2;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;378806;997597664.99
+2025-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;65516744;0.00
+2025-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;633943;25882961882.62
+2025-06-30;2;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;1341562;130919235550.82
+2025-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;15729842;13270710485.60
+2025-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;67319200;68010030703.48
+2025-06-30;2;Centrais de Atendimento;Outras Financeiras;Não aplicável;175696;150941909489.97
+2025-06-30;2;Agências;Boletos e Convênios;Não aplicável;43314897;114698876990.55
+2025-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1110509;4046070279.93
+2025-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;126348585;0.00
+2025-06-30;2;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;9815171;0.00
+2025-06-30;2;Agências;Empréstimos e Financiamentos;Não aplicável;162733579;548653582608.09
+2025-06-30;2;Agências;Pix;Não aplicável;121577678;29665564580.14
+2025-06-30;2;Caixa Eletrônico;Saques via Pix;Caixa Eletrônico / Acesso Restrito;335;323800.00
+2025-06-30;2;Correspondentes no País;Saque;Não aplicável;100422014;71096278213.19
+2025-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;138275124;0.00
+2025-06-30;2;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);73886233;0.00
+2025-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);27963;41008038.27
+2025-06-30;2;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1068944781;0.00
+2025-06-30;2;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);1536034;604962985.00
+2025-06-30;2;Correspondentes no País;Depósito;Não aplicável;86195263;68238659811.98
+2025-06-30;2;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;14739371419;0.00
+2025-06-30;2;Agências;Outras Financeiras;Não aplicável;242482052;4051887001579.81
+2025-06-30;2;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;378852;30344057593.31
+2025-06-30;2;Agências;Depósito;Não aplicável;26266981;2573156497607.44
+2025-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;7851354;19750492630.53
+2025-06-30;2;Site do Banco (Internet Banking);Pix;Não aplicável;272439989;2161847827828.03
+2025-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;60366094;42574097161.60
+2025-06-30;2;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;27659711;32256446611.19
+2025-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;6337486;2621371939.79
+2025-06-30;2;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;846506711;710613320682.13
+2025-06-30;2;Centrais de Atendimento;Boletos e Convênios;Não aplicável;14676;18145970.69
+2025-06-30;2;Agências;Saque;Não aplicável;28003976;184070028441.50
+2025-06-30;2;Agências;Consulta Saldo/Extrato;Não aplicável;115928585;0.00
+2025-06-30;2;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;612540647;1702683641246.56
+2025-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;179858425;134597880854.65
+2025-06-30;2;Correspondentes no País;Boletos e Convênios;Não aplicável;206500870;85414813377.83
+2025-06-30;2;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;155340801;122386535607.32
+2025-06-30;2;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;36500501;138461744873.79
+2025-06-30;2;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;56586608;69185939262.25
+2025-06-30;2;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1083394117;0.00
+2025-06-30;2;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;360346911;826310040066.68
+2025-06-30;2;Centrais de Atendimento;Outras não Financeiras;Não aplicável;10706952;0.00
+2025-06-30;2;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);2851;6730.50
+2025-06-30;2;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);90299;125105853.24
+2025-06-30;2;Posto de Atendimento Cooperativo;Saque;Não aplicável;88989356;23631041603.47
+2025-06-30;2;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;317532;8421762257.93
+2025-06-30;2;Correspondentes no País;Outras Financeiras;Não aplicável;387808;722859685.45
+2025-06-30;2;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);205283912;74844070196.77
+2025-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;6734860;4336753717.49
+2025-06-30;2;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;2250435;3782123161.19
+2025-06-30;2;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;2875950;0.00
+2025-06-30;2;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;25408064370;0.00
+2025-06-30;2;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);206376;75217567.73
+2025-06-30;2;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;13670248;0.00
+2025-06-30;2;Agências;Ordem de Transferência de Crédito;Não aplicável;52439438;3258179136540.31
+2025-06-30;2;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;92943393;88945149708.55
+2025-06-30;2;Correspondentes no País;Pix;Não aplicável;364;1956.33
+2025-06-30;2;Posto de Atendimento Cooperativo;Empréstimos e Financiamentos;Não aplicável;866;10659917.32
+2025-09-30;3;Agências;Depósito;Não aplicável;28131117;1469885084109.01
+2025-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;604791;25035417847.28
+2025-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);196708582;70741333460.43
+2025-09-30;3;Agências;Boletos e Convênios;Não aplicável;17055142;104835067940.25
+2025-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);70302131;500.00
+2025-09-30;3;Centrais de Atendimento;Pix;Não aplicável;164;373396.42
+2025-09-30;3;Agências;Outras não Financeiras;Não aplicável;38270818;0.00
+2025-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;26871291;31208010002.42
+2025-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;59948472;0.00
+2025-09-30;3;Correspondentes no País;Outras não Financeiras;Não aplicável;675480;0.00
+2025-09-30;3;Centrais de Atendimento;Boletos e Convênios;Não aplicável;10078;10016117.33
+2025-09-30;3;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;318888573;488820871523.71
+2025-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;6289063;2522445858.96
+2025-09-30;3;Caixa Eletrônico;Saques via Pix;Caixa Eletrônico / Acesso Restrito;41;34120.00
+2025-09-30;3;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;37442394;77951243726.37
+2025-09-30;3;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;841195430;713717070334.75
+2025-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);80632;133628605.32
+2025-09-30;3;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;45;13447.79
+2025-09-30;3;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;13190457;0.00
+2025-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;7191785;18707126429.39
+2025-09-30;3;Posto de Atendimento Cooperativo;Saque;Não aplicável;92027779;24696170756.82
+2025-09-30;3;Agências;Pix;Não aplicável;147077544;34558086926.11
+2025-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;166792553;121269922852.93
+2025-09-30;3;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;636476934;1731964121242.48
+2025-09-30;3;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);1617595;646555753.96
+2025-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);188317;68316313.18
+2025-09-30;3;Correspondentes no País;Outras Financeiras;Não aplicável;552577;1014411089.42
+2025-09-30;3;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;158755387;116189725977.65
+2025-09-30;3;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;25087805464;0.00
+2025-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;65032224;65022084493.19
+2025-09-30;3;Agências;Saque;Não aplicável;27181516;169054391843.99
+2025-09-30;3;Posto de Atendimento Cooperativo;Depósito;Não aplicável;36951710;24252203650.75
+2025-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;2655540;0.00
+2025-09-30;3;Agências;Ordem de Transferência de Crédito;Não aplicável;57905196;4869240678630.29
+2025-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;2027599;3445648364.60
+2025-09-30;3;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;9879473;0.00
+2025-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;123520809;0.00
+2025-09-30;3;Posto de Atendimento Cooperativo;Empréstimos e Financiamentos;Não aplicável;1622;19758983.58
+2025-09-30;3;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;322942;350650264.93
+2025-09-30;3;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;48887;3024361202.83
+2025-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1136139;4239493781.41
+2025-09-30;3;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1146190623;0.00
+2025-09-30;3;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;18009558033;4315643542169.02
+2025-09-30;3;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;366032;29440750581.43
+2025-09-30;3;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;426277;1228942489.98
+2025-09-30;3;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;50400143;35353700866.47
+2025-09-30;3;Correspondentes no País;Boletos e Convênios;Não aplicável;202519560;84082198103.87
+2025-09-30;3;Centrais de Atendimento;Outras Financeiras;Não aplicável;163962;133525506770.11
+2025-09-30;3;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;367351;9074243767.26
+2025-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;14260144;11878971131.66
+2025-09-30;3;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1368169259;0.00
+2025-09-30;3;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;182339482;6365894314243.28
+2025-09-30;3;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;325838205;1463880704680.38
+2025-09-30;3;Posto de Atendimento Cooperativo;Pix;Não aplicável;170;26815846.42
+2025-09-30;3;Site do Banco (Internet Banking);Pix;Não aplicável;298175447;2410736937987.37
+2025-09-30;3;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;3943740;1139768656.41
+2025-09-30;3;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;13662847786;0.00
+2025-09-30;3;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;887066;25424466112.62
+2025-09-30;3;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);28079;41404317.87
+2025-09-30;3;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);2582;6204.50
+2025-09-30;3;Agências;Consulta Saldo/Extrato;Não aplicável;113790514;0.00
+2025-09-30;3;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);13539;0.00
+2025-09-30;3;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;103708686;101737520343.93
+2025-09-30;3;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;373690897;822162402161.76
+2025-09-30;3;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);7744753;5577889138.47
+2025-09-30;3;Correspondentes no País;Depósito;Não aplicável;86577686;68719165809.92
+2025-09-30;3;Correspondentes no País;Pix;Não aplicável;8;105.88
+2025-09-30;3;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;126810941;0.00
+2025-09-30;3;Correspondentes no País;Saque;Não aplicável;97853145;66484309357.31
+2025-09-30;3;Agências;Empréstimos e Financiamentos;Não aplicável;176882427;524883193093.29
+2025-09-30;3;Centrais de Atendimento;Outras não Financeiras;Não aplicável;11536635;0.00
+2025-09-30;3;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;58444829;71657760202.30
+2025-09-30;3;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;6097710;3953258084.78
+2025-09-30;3;Agências;Outras Financeiras;Não aplicável;266559125;3194983903290.85
+2025-12-31;4;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;27551844441;0.00
+2025-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);197199948;72797700642.44
+2025-12-31;4;Agências;Empréstimos e Financiamentos;Não aplicável;158051271;537722228905.07
+2025-12-31;4;Agências;Saque;Não aplicável;27185902;175060210742.96
+2025-12-31;4;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;4406742;1319342114.63
+2025-12-31;4;Agências;Boletos e Convênios;Não aplicável;15182495;112198700725.64
+2025-12-31;4;Posto de Atendimento Cooperativo;Depósito;Não aplicável;39191167;24990101922.72
+2025-12-31;4;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;419578659;928230060304.33
+2025-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1130306;11211696309.84
+2025-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;25381845;30152716149.13
+2025-12-31;4;Centrais de Atendimento;Outras não Financeiras;Não aplicável;11654404;0.00
+2025-12-31;4;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;59127600;74090283344.86
+2025-12-31;4;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;213615251;7380126237124.23
+2025-12-31;4;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;62;24273.77
+2025-12-31;4;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1112340076;0.00
+2025-12-31;4;Centrais de Atendimento;Boletos e Convênios;Não aplicável;9649;10599869.42
+2025-12-31;4;Correspondentes no País;Pix;Não aplicável;84;1200.07
+2025-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;270545;275993607.20
+2025-12-31;4;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;480660;1384444809.70
+2025-12-31;4;Agências;Depósito;Não aplicável;24084074;2499327680981.69
+2025-12-31;4;Agências;Pix;Não aplicável;196822683;46791662187.39
+2025-12-31;4;Posto de Atendimento Cooperativo;Empréstimos e Financiamentos;Não aplicável;2291;20201657.71
+2025-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);8176132;5975378773.96
+2025-12-31;4;Agências;Outras não Financeiras;Não aplicável;36238564;0.00
+2025-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;127453888;0.00
+2025-12-31;4;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;405303;11842274296.02
+2025-12-31;4;Correspondentes no País;Outras Financeiras;Não aplicável;491581;897755148.36
+2025-12-31;4;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;940133;23097434807.11
+2025-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);31334;50865585.19
+2025-12-31;4;Agências;Outras Financeiras;Não aplicável;301006484;4507327725731.62
+2025-12-31;4;Centrais de Atendimento;Pix;Não aplicável;224;213879.95
+2025-12-31;4;Posto de Atendimento Cooperativo;Pix;Não aplicável;105;28381318.38
+2025-12-31;4;Centrais de Atendimento;Outras Financeiras;Não aplicável;146048;115037582562.61
+2025-12-31;4;Correspondentes no País;Outras não Financeiras;Não aplicável;625829;0.00
+2025-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;1967641;3314190725.70
+2025-12-31;4;Correspondentes no País;Boletos e Convênios;Não aplicável;198740554;83279531999.54
+2025-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);67123;112076349.18
+2025-12-31;4;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;330145;27450370053.03
+2025-12-31;4;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;10880478418;0.00
+2025-12-31;4;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;323484096;1581344905830.92
+2025-12-31;4;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;164037102;124782481723.22
+2025-12-31;4;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;46374;2389036529.92
+2025-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;55043663;39304704194.52
+2025-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;403513;19369666994.53
+2025-12-31;4;Agências;Consulta Saldo/Extrato;Não aplicável;95709391;0.00
+2025-12-31;4;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;6311942;2452698254.65
+2025-12-31;4;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;7143988;18180280593.08
+2025-12-31;4;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;115504842;112617040923.50
+2025-12-31;4;Agências;Ordem de Transferência de Crédito;Não aplicável;59720803;3598177934539.72
+2025-12-31;4;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;40085067;107689209494.41
+2025-12-31;4;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;728928854;1872275125806.86
+2025-12-31;4;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;850383371;796468136482.24
+2025-12-31;4;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1322726475;0.00
+2025-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;13001389;11178109589.44
+2025-12-31;4;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;13588925;0.00
+2025-12-31;4;Posto de Atendimento Cooperativo;Saque;Não aplicável;98655425;25257692894.61
+2025-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;57172067;0.00
+2025-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);168733;62852373.48
+2025-12-31;4;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);1699644;704628179.80
+2025-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;127775551;0.00
+2025-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;2277184;0.00
+2025-12-31;4;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;346655957;525535122407.97
+2025-12-31;4;Site do Banco (Internet Banking);Pix;Não aplicável;316556706;2586926919570.88
+2025-12-31;4;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);71165560;0.00
+2025-12-31;4;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;19819750974;4738327920764.50
+2025-12-31;4;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;168639318;124849124510.75
+2025-12-31;4;Correspondentes no País;Saque;Não aplicável;96475255;66188781324.49
+2025-12-31;4;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);12110;0.00
+2025-12-31;4;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;5484383;3689139092.67
+2025-12-31;4;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;63377962;63732263118.18
+2025-12-31;4;Correspondentes no País;Depósito;Não aplicável;85740854;70969048263.91
+2025-12-31;4;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;9939078;0.00
+2025-12-31;4;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);1590;5954.00
+2026-03-31;1;Aplicativo do Banco (Mobile Banking);Saques via Pix;Não aplicável;3688762;1206178015.26
+2026-03-31;1;Correspondentes no País;Outras Financeiras;Não aplicável;512291;979272696.53
+2026-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Banco24Horas (Terceiros);26245;40596003.35
+2026-03-31;1;Agências;Outras não Financeiras;Não aplicável;34245280;0.00
+2026-03-31;1;Centrais de Atendimento;Ordem de Transferência de Crédito;Não aplicável;39272;2761127849.77
+2026-03-31;1;Posto de Atendimento Cooperativo;Outras Financeiras;Não aplicável;436416;11248992627.79
+2026-03-31;1;Site do Banco (Internet Banking);Consulta Saldo/Extrato;Não aplicável;1104489128;0.00
+2026-03-31;1;Posto de Atendimento Cooperativo;Empréstimos e Financiamentos;Não aplicável;739;11688131.90
+2026-03-31;1;Site do Banco (Internet Banking);Outras não Financeiras;Não aplicável;1384598280;0.00
+2026-03-31;1;Correspondentes no País;Saque;Não aplicável;86917467;61615272415.52
+2026-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Acesso Restrito;7474377;2392627314.92
+2026-03-31;1;Aplicativo do Banco (Mobile Banking);Ordem de Transferência de Crédito;Não aplicável;416736685;792016594718.51
+2026-03-31;1;Posto de Atendimento Cooperativo;Ordem de Transferência de Crédito;Não aplicável;295583;22443752285.19
+2026-03-31;1;Correspondentes no País;Outras não Financeiras;Não aplicável;638878;0.00
+2026-03-31;1;Centrais de Atendimento;Empréstimos e Financiamentos;Não aplicável;641737;20956019886.78
+2026-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Acesso Restrito;149654464;114028398930.12
+2026-03-31;1;Correspondentes no País;Boletos e Convênios;Não aplicável;196505356;82390684838.51
+2026-03-31;1;Agências;Consulta Saldo/Extrato;Não aplicável;88234900;0.00
+2026-03-31;1;Agências;Ordem de Transferência de Crédito;Não aplicável;53693070;4001592327001.47
+2026-03-31;1;Site do Banco (Internet Banking);Ordem de Transferência de Crédito;Não aplicável;183578459;6699018480745.49
+2026-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);10683;0.00
+2026-03-31;1;Aplicativo do Banco (Mobile Banking);Empréstimos e Financiamentos;Não aplicável;147456172;124914256409.66
+2026-03-31;1;Aplicativo do Banco (Mobile Banking);Consulta Saldo/Extrato;Não aplicável;28841930332;0.00
+2026-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Banco24Horas (Terceiros);179637061;67367783231.55
+2026-03-31;1;Posto de Atendimento Cooperativo;Pix;Não aplicável;129;33517112.78
+2026-03-31;1;Agências;Boletos e Convênios;Não aplicável;14292994;104861774045.10
+2026-03-31;1;Site do Banco (Internet Banking);Boletos e Convênios;Não aplicável;358322905;1366213528260.76
+2026-03-31;1;Centrais de Atendimento;Consulta Saldo/Extrato;Não aplicável;9763990;0.00
+2026-03-31;1;Agências;Empréstimos e Financiamentos;Não aplicável;144164941;453728806319.07
+2026-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Cartão Próprio;237722;254169698.91
+2026-03-31;1;Caixa Eletrônico;Saque;Caixa Eletrônico / Cartão Próprio;47912921;34732059575.49
+2026-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Banco24Horas (Terceiros);8167601;5925933388.36
+2026-03-31;1;Posto de Atendimento Cooperativo;Saque;Não aplicável;93925788;24351693631.23
+2026-03-31;1;Centrais de Atendimento;Outras Financeiras;Não aplicável;127191;121025397605.29
+2026-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Acesso Restrito;13445489;11689738533.80
+2026-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Banco24Horas (Terceiros);65740415;0.00
+2026-03-31;1;Site do Banco (Internet Banking);Saques via Pix;Não aplicável;52;21744.07
+2026-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Acesso Restrito;122584239;0.00
+2026-03-31;1;Correspondentes no País;Ordem de Transferência de Crédito;Não aplicável;474836;3367141827.90
+2026-03-31;1;Site do Banco (Internet Banking);Outras Financeiras;Não aplicável;662748890;1803392099630.80
+2026-03-31;1;Aplicativo do Banco (Mobile Banking);Outras não Financeiras;Não aplicável;8488410195;0.00
+2026-03-31;1;Posto de Atendimento Cooperativo;Boletos e Convênios;Não aplicável;56062789;69422645652.26
+2026-03-31;1;Caixa Eletrônico;Pix;Caixa Eletrônico / Banco24Horas (Terceiros);1645496;704366329.00
+2026-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Cartão Próprio;1946475;0.00
+2026-03-31;1;Caixa Eletrônico;Consulta Saldo/Extrato;Caixa Eletrônico / Cartão Próprio;116471595;0.00
+2026-03-31;1;Site do Banco (Internet Banking);Pix;Não aplicável;308464138;2479563940583.67
+2026-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Cartão Próprio;1618718;2457142826.68
+2026-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Banco24Horas (Terceiros);1296;5759.00
+2026-03-31;1;Agências;Depósito;Não aplicável;23696837;6866128080524.06
+2026-03-31;1;Correspondentes no País;Depósito;Não aplicável;77718888;63550975093.38
+2026-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Banco24Horas (Terceiros);151618;57022729.66
+2026-03-31;1;Aplicativo do Banco (Mobile Banking);Pix;Não aplicável;19275666028;4450254839456.42
+2026-03-31;1;Agências;Pix;Não aplicável;205975786;48834479295.64
+2026-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Cartão Próprio;22902259;27246826456.59
+2026-03-31;1;Aplicativo do Banco (Mobile Banking);Outras Financeiras;Não aplicável;301948701;419592112067.69
+2026-03-31;1;Correspondentes no País;Consulta Saldo/Extrato;Não aplicável;12694455;0.00
+2026-03-31;1;Centrais de Atendimento;Boletos e Convênios;Não aplicável;8874;8711104.03
+2026-03-31;1;Correspondentes no País;Empréstimos e Financiamentos;Não aplicável;119866578;110844075502.81
+2026-03-31;1;Agências;Outras Financeiras;Não aplicável;290277508;8327073039864.68
+2026-03-31;1;Agências;Saque;Não aplicável;24416361;158085228227.27
+2026-03-31;1;Caixa Eletrônico;Ordem de Transferência de Crédito;Caixa Eletrônico / Acesso Restrito;6328818;15767480070.38
+2026-03-31;1;Caixa Eletrônico;Boletos e Convênios;Caixa Eletrônico / Cartão Próprio;5114573;3551485665.31
+2026-03-31;1;Caixa Eletrônico;Outras não Financeiras;Caixa Eletrônico / Acesso Restrito;50058806;0.00
+2026-03-31;1;Posto de Atendimento Cooperativo;Depósito;Não aplicável;36952032;22622820303.49
+2026-03-31;1;Centrais de Atendimento;Outras não Financeiras;Não aplicável;14500399;0.00
+2026-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Cartão Próprio;327765;15027747096.04
+2026-03-31;1;Caixa Eletrônico;Depósito;Caixa Eletrônico / Acesso Restrito;59842036;60640702786.85
+2026-03-31;1;Aplicativo do Banco (Mobile Banking);Boletos e Convênios;Não aplicável;839191450;826544950192.54
+2026-03-31;1;Centrais de Atendimento;Pix;Não aplicável;135;91228.67
+2026-03-31;1;Caixa Eletrônico;Empréstimos e Financiamentos;Caixa Eletrônico / Banco24Horas (Terceiros);65282;70165605.72
+2026-03-31;1;Caixa Eletrônico;Outras Financeiras;Caixa Eletrônico / Acesso Restrito;1006243;4923520221.59
+2026-03-31;1;Site do Banco (Internet Banking);Empréstimos e Financiamentos;Não aplicável;38444289;72233071863.22
